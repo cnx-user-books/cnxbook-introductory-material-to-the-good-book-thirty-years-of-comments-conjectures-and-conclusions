@@ -1,0 +1,105 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Jack: The Good Zoroastrian, by Nozer D. Singpurwalla</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>7129cf63-b4a9-4257-9728-0b19fde1c29c</md:uuid>
+</metadata>
+  <content>
+<!--empty paragraphs get left behind.-->
+
+<para id="id2253724">(This module helps 
+introduce <emphasis>The Good Book: Thirty Years of Comments, Conjectures and 
+Conclusions, by I.J. Good</emphasis>. The book is available for purchase from the
+<link url="http://my.qoop.com/store/3111075350609104/386563560345">Rice University Press Store</link>. You 
+can also visit the <link url="http://ricepress.rice.edu">Rice University Press 
+web site</link>.)</para>
+
+<section id="idm4934400">
+<title> Irving John Good: The Man </title> 
+
+
+<!--empty paragraphs get left behind.-->
+    <para id="id2253726"><emphasis>Humata, Hukhta</emphasis> and <emphasis>Hvarshta</emphasis>
+are the three guiding principles of Zoroastrianism, a
+philosophical conception of deity that came out of Persia before the time
+of Christ. Translated from the ancient language of <emphasis>Avesta</emphasis>,
+these words mean Good Thoughts, Good Words, and Good Deeds.</para>
+    <para id="id2253748">Jack Good, a mathematician, a statistician, a computer scientist, a
+philosopher, and a chess expert, is well known for his good thoughts. One
+only need read Good (1983) on <emphasis>Good Thinking: The Foundations of
+Probability and Its Applications</emphasis>. On the matter of Good Words, those of us
+fortunate to know Jack cannot recall having heard him utter an unkind word
+or a disparaging comment about anyone. A possible exception could be Good
+(1990), wherein he calls R. A. Fisher “... a great practitioner but a
+mediocre philosopher.” Finally, on the matter of Good Deeds, what can be
+better than a Good-like deed of generously citing the work of other
+colleagues, no matter how inconsequential the work? Jack therefore fully
+deserves the accolade of being called “The Good Zoroastrian,” or
+paraphrasing Rudyard Kipling, “You are a better Zoroastrian than I, Irving
+John.”</para>
+</section>
+
+<section id="idp5096064">
+<title>Jack Good: An Appreciation</title>
+
+
+
+
+<!--empty paragraphs get left behind.-->
+    <para id="id2253805">David Banks wanted of me an “appreciation” of Jack's work. By this I am
+presuming that David wanted me to reflect on the impact of Jack's writings
+on reliability, survival analysis, and quality control, broadly labeled the
+<emphasis>assurance sciences.</emphasis> I am grateful to David for this opportunity<emphasis/>because it motivated me to re-visit some of Jack's writings, beginning
+with his earliest on <emphasis>Probability and the Weighing of Evidence</emphasis> (1950), to
+one of his latest on “Subjective Probability” (1990). Sandwiched between
+these is an impressive list of over two thousand articles and books, some of
+the more notable ones (to me) being “Rational Decisions” (1952), “A Theory
+of Causality” (1959), “The Estimation of Probabilities” (1965), “A
+Subjective Evaluation of Bode's Law” (1969), “Dynamic Probability, Computer
+Chess, and the Measurement of Knowledge” (1977), “Some History of the
+Hierarchical Bayesian Methodology” (1981), and then of course such
+titillating titles as “Quantum Mechanics and Yoga” (1963), and “Good
+Saw That It Was God(d)” (1975). But since my present charge is to focus on
+the assurance sciences, I will, in what follows, say a few words about this.</para>
+    <para id="id2253863">Traditionally, and up until recently, the point of view adopted by most
+reliability theorists and life data analysts is that reliability is a
+probability. The fact that there could be different kinds of probability has
+been an alien concept, and continues to be so in survival analysis. In Good
+(1965), the different interpretations of probability are carefully
+articulated. These are: chance or propensity (a physical probability),
+psychological probability, subjective probability, and credibility (or a
+logical probability). In Good (1990), the focus is on subjective probability;
+also given there is a dendroidal classification of the different kinds of
+probability and usages of the term. A consequence of these writings,
+together with those of de Finetti, Savage, and Lindley, is that reliability
+is now seen as an unknown chance (or propensity), and one's uncertainty
+about the reliability, expressed as a personal probability, is labelled
+<emphasis>survivability</emphasis> [cf. Singpurwalla (2006), “Reliability and Risk: A
+Bayesian Perspective”].</para>
+    <para id="id2253890">This distinction between reliability and survivability has far-reaching
+ramifications. For one, it makes survivability assessments dynamic. For
+another, it brings into play the hierarchical nature of probabilities (first
+via chance, and then via a subjective probability imposed on chance).
+Finally, it imparts a sense of truthfulness in the context of life-time
+assessments, because in actuality one ends obtaining an item's
+survivability, not its reliability. The former is personal and subjective;
+the latter is abstract and unobservable. Hierarchical probabilities also
+come into play when assessing network and system integrity. Good has
+commented on the hierarchical and dynamic nature of probability as early as
+1965 and perhaps earlier.</para>
+    <para id="id2253906">The impact of Good's other works on the assurance sciences pertains to
+acceptance sampling based on life-test data using the weighing of evidence
+concept via Bayes' Factors, information gleaned from life test data and the
+design of life testing experiments, and the classification of interdependent
+failures as being cascading or causal. Good's discussion of rational
+behavior and the utility of a distribution [Good (1968)] takes a tangible
+form when one needs to apportion reliability between the nodes of a network
+and when one needs to choose systems with competing designs. For a flavor of
+these topics, see Singpurwalla (2006) and the references therein.</para>
+    <para id="id2253920">All in all, Good's writings are so plentiful and so diverse that one can
+find their impact on a wide variety of topics in mathematics, statistics,
+operations research, philosophy, psychology, parapsychology, physics, and
+even yoga! For this broad body of work, Jack deserves
+deep appreciation from us all
+for his contributions to our learning.</para>
+</section>
+  </content>
+</document>

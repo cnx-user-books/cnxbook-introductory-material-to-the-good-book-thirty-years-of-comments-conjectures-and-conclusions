@@ -1,0 +1,126 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Introduction by I. J. Good</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>f1bc8432-bed4-40ff-819a-cc769cbbf8aa</md:uuid>
+</metadata>
+  <content>
+<!--empty paragraphs get left behind.-->
+
+<para id="id2253702">(This module helps 
+introduce <emphasis>The Good Book: Thirty Years of Comments, Conjectures and 
+Conclusions, by I.J. Good</emphasis>. The book is available for purchase from the
+<link url="http://my.qoop.com/store/3111075350609104/386563560345">Rice University Press Store</link>. You 
+can also visit the <link url="http://ricepress.rice.edu">Rice University Press 
+web site</link>.)
+
+</para>
+
+    <para id="id2253704">I greatly welcomed David Banks's proposal for him to edit a book of
+my CCCs (Comments, Conjectures and Conclusions; a few written
+jointly with other authors), which appeared in my column in
+<emphasis>JSCS</emphasis> (<emphasis>Journal of Statistical Computation and
+Simulation</emphasis>). David Banks has invited me to write an introduction
+and to explain also how this column originated. I'll do the latter first.</para>
+    <para id="id2253724">Ever since my youth, I have believed that Brevity is the Soul of
+Wit,<footnote id="idm8530288">Quoted from Polonius (Lord Chamberlain) In
+<emphasis>Hamlet</emphasis>, Act I, Science II.</footnote> as exemplified in <emphasis>The
+Scientist Speculates, An Anthology of Partly Baked
+Ideas</emphasis><footnote id="idp6062400">German translation, Phantasie in der
+Wissenschaft: eine Anthologie unausgegorener Ideen (Econ Verlag,
+1965). French translation Quand les Savants laissent libre Cours 
+leur Imagination (Dunod, Paris, 1967). The French version omits the
+chapter on the paranormal.</footnote> (the Preface was the brevity: “The
+intention of this anthology is to raise more questions than it
+answers”) and in the twenty-eight columns of pbis (partially baked ideas) in
+the <emphasis>Mensa Bulletin</emphasis> and <emphasis>Journal</emphasis>. These were assembled
+in a Technical Report.<footnote id="idp5219824">The Technical Report appeared as
+# 2166 in my complete publication list.</footnote> After discussion with
+Richard G. Krutchkoff, the editor of <emphasis>JSCS</emphasis>, he invited me to
+edit columns of CCCs. They began in 1977 and contained many items by
+other authors which are not represented in the present book.</para>
+    <para id="id2253800">I greatly liked also the three extremely well-written and kind
+appreciations of my work by Stephen Fienberg, Nozer Singpurwalla,
+and James R. Thompson &amp; David W. Scott, which they had prepared
+largely for my ninetieth birthday party. Those appreciations and
+this introduction are not especially related to my brevities. The brevities
+in this book speak for themselves, and the brevity of this introduction
+is therefore appropriate.</para>
+    <para id="id2253823">Because I was once regarded as a statistical dissident, let me
+discuss establishment and dissident views in general.</para>
+    <para id="id2253828">Thomas Kuhn, who is well known by philosophers of science, defined a
+period of <emphasis>normal science</emphasis> as one in which a specific paradigm
+is usually adopted. Call it the <emphasis>Establishment</emphasis> view and assume
+there is one for each named science. But there are dissidents who
+are at first ignored by the Establishment, but who eventually form a
+new Establishment and another “normal” period. This process isn't
+restricted to scientific topics; compare the one-volume (abridged)
+edition (1932) of <emphasis>The Golden Bough</emphasis> by J.G. Frazer (originally
+published in twelve volumes in 1922). Frazer mentions various
+places, especially in parts of Africa, where priests and kings were
+killed after a fixed period or after a public calamity such as a
+drought. Or consider the sixteenth-century aphorism by John
+Harington, “<emphasis>Treason doth never prosper: what's the reason?
+For if it prosper, none dare call it treason</emphasis>.” Paradigm changes
+can be regarded as <emphasis>revolutions</emphasis>, but they are not necessarily
+sudden and there can be a period in which there are two or more
+paradigms. For example, there is a mixture of the caloric theory and
+its explanation, Statistical Mechanics; and a mixture between
+prerelativity and relativity. (It is said that von Newman told a
+policeman that a house had struck von Newman's car, thus wittily
+applying the principle of relativity to an inappropriate situation.)
+In Statistics we have a mixture of <emphasis>frequentism</emphasis> and
+<emphasis>Bayesianism</emphasis>. Frequentism is based on the use of P-values for
+the <emphasis>acceptance</emphasis> and <emphasis>refutation</emphasis> of hypotheses where
+refutation can be called <emphasis>inexactification</emphasis> as I expressed it
+in a lecture at Berkeley some years ago. Bayesianism in its turn can
+be <emphasis>objective</emphasis> (impersonal) or <emphasis>subjective</emphasis> (personal).
+These depend respectively on impersonal and personal probabilities.
+(One application of impersonal probabilities is to the metaphysical
+problem of why there should be something rather than nothing.
+Nothingness is simpler than somethingness.) Sometimes it is
+convenient to use one methodology and sometimes another. I
+experienced this phenomenon during World War II, when working as a
+cryptanalyst in Bletchley Park. (See, for example, my chapter
+“Enigma and Fish” in <emphasis>Codebreakers: The Inside Story of
+Bletchley Park</emphasis>, edited by F.H. Hinsley and Allan Stripp, Oxford
+University Press, 1994. Or see my work in the book edited by
+Copeland mentioned in Note 4.) To give an example: in one procedure
+of many (<emphasis>setting</emphasis> wheels 1 and 2 of a German enciphering
+machine SZ42, which we called Fish or Tunny), there were <m:math><m:mrow><m:mn>31</m:mn><m:mo>×</m:mo><m:mn>41</m:mn><m:mo>=</m:mo><m:mn>1271</m:mn></m:mrow></m:math> hypotheses, each with prior probability <m:math><m:mrow><m:mn>1</m:mn><m:mo>/</m:mo><m:mn>1271</m:mn></m:mrow></m:math>. But if a
+<emphasis>score</emphasis> of a setting, after a Colossus<footnote id="idm8291120">Colossus was
+a large electronic cryptanalytic machine built in England during
+WWII. Its purpose was to enable the regular breaking of the SZ42
+enciphered messages. It was close to being general purpose and was
+thus of much historical significance, apart from its enormous value
+for the defeat of Hitler. See, for example, <emphasis>Colossus: the
+Secrets of Bletchley Park's Codebreaking Computers</emphasis>, edited by B.
+Jack Copeland (Oxford University Press, 2006). I showed after the
+war that Colossus could be used for another purpose. (See page 327
+of the book.) Colossus should not be confused with the Bombe, which
+was very large, but very different, being a special-purpose
+electromagnetic cryptanalytic machine used against the Enigma. Later,
+there was an American electronic form of the Bombe designed by
+Joseph Desch.</footnote> run, was close to four standard deviations above the
+mean, then the posterior odds were not 30 (as we sometimes inferred
+incorrectly from a P-value of <m:math><m:mrow><m:mn>1</m:mn><m:mo>/</m:mo><m:mn>30</m:mn><m:mo>,</m:mo><m:mn>000</m:mn></m:mrow></m:math>) but only about 1
+(<emphasis>evens</emphasis>) from a Bayesian point of view. But we would also
+refer to the <emphasis>sigma-age</emphasis> or <emphasis>sigmage</emphasis> of a <emphasis>bulge</emphasis>
+above the mean.</para>
+    <para id="id2254078">In a discussion at the Second Valencia meeting on Statistics in
+1983, Lindley predicted that the 21st
+ century would be
+Bayesian, and I predicted it would be a century of the
+<emphasis>Bayes/non-Bayes compromise</emphasis>.<footnote id="idm1901952">“The Bayes/non-Bayes
+compromise: a brief revue,” <emphasis>JASA</emphasis> 87 (Sept. 1992), 597-606. A
+Presidential Invited Paper, Atlanta, Georgia, August 20, 1991.</footnote><emphasis>Mixture</emphasis> might be a better term than <emphasis>compromise</emphasis>. There
+are children now who will judge, at the end of the century, who was
+more correct. This statement is conditional on there being anyone alive
+at that time!</para>
+    <para id="id2254124">This book is about statistical brevity and about the views of one of
+the early dissidents. Some readers might wish to expand some items
+into full-length dissertations.</para>
+    <para id="id2254130">For getting this book into suitable electronic form, I am most
+grateful to Eric P. Smith, the present head of the Statistics
+Department at Virginia Tech, Linda Breeding, and Byron Smith.</para>
+    <para id="id2254137">I. J. Good, January 12, 2008</para>
+  </content>
+</document>

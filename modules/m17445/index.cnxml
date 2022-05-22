@@ -1,0 +1,2034 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>A Conversation with I. J. Good</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>19d2dd34-a634-4d8e-909e-636ce327f7b2</md:uuid>
+</metadata>
+  <content>
+<!--empty paragraphs get left behind.-->
+    <para id="id2253704">(Reprinted from <emphasis>Statistical 
+Science</emphasis>, Volume 11, pp. 1-19, 1996.
+The interview was conducted by David Banks during January 1993. This module helps 
+introduce <emphasis>The Good Book: Thirty Years of Comments, Conjectures and 
+Conclusions, by I.J. Good</emphasis>. The book is available for purchase from the
+<link url="http://my.qoop.com/store/3111075350609104/386563560345">Rice University Press Store</link>. You 
+can also visit the <link url="http://ricepress.rice.edu">Rice University Press 
+web site</link>.)
+
+</para>
+<!--empty paragraphs get left behind.-->
+    <para id="id2253721"><emphasis>Abstract.</emphasis>
+Irving John Good was born in London, on December 9, 1916.
+He attended the Haberdashers' “secondary” School, distinguishing
+himself as a mathematical prodigy, and then
+entered Jesus College at Cambridge University in 1935.
+He studied under G. H. Hardy and A. S. Besicovitch, obtaining his
+Ph.D. in 1941, and
+was the Cambridgeshire chess champion in 1939.
+Then he was called into World War II service as a cryptanalyst
+at Bletchley Park, working partly as the
+main statistician in teams led by
+Alan Turing and, later, by the British chess champion
+C. H. O'D. Alexander and by M. H. A. Newman. The work
+employed early electromagnetic and electronic computers
+and applied Bayesian statistics relevant to the reading
+of the two main secret ciphers used by the German Army and Navy,
+providing crucial intelligence to the Allies.
+After the war, Good taught briefly at Manchester University,
+and made a few suggestions for the electronic computer project.
+He was
+then was drawn back into classified work for the British government;
+during that time he obtained an Sc.D. from Cambridge and a D.Sc. from Oxford.
+In 1967 he came to the United States, becoming a University
+Distinguished Professor at Virginia Polytechnic Institute.
+Officially he retired in 1994, but in practice he can be found
+at work late in the day when the snow isn't deep.</para>
+    <para id="id2253767">Jack Good has made fundamental contributions to
+mathematics, physics, computer science, philosophy, and
+especially statistics.
+In his free moments, he amuses himself with chess, Go, grammar,
+kudology, botryology, and whimsical acts of creative intelligence.
+He's written of the order of 800 papers (counting is
+difficult because publications vary in
+paperhood), four books (one joint),
+and he conceived and was the general
+editor of <emphasis>The Scientist Speculates: An
+Anthology of Partly-Baked Ideas</emphasis>, in which
+famous researchers outlined pet ideas on the border of current
+scientific thought.
+To statisticians, Good is chiefly famous as a pioneer of Bayesianism,
+especially hierarchical Bayes, and of the Bayes/non-Bayes
+compromise.
+He is an innovator with contingency tables, the co-discoverer of the fast
+Fourier transform, the
+rediscoverer and developer of penalized likelihood procedures,
+the developer of an empirical Bayes idea of A. M. Turing,
+and a fundamental contributor to theories of explanation,
+the dendroidal classification of kinds of
+probability, and statistical philosophy.</para>
+<!--empty paragraphs get left behind.-->
+    <para id="id2253798">When I visited him on December 23, 1993, his
+office was large, dark, and very crowded.
+Overhead, an enormous suspended 3-D reticulum with peculiar periodic
+cavities canopied the room (it had come to him in a dream).
+A different contribution to mathematical art,
+Dioximoirékinesis, on permanent
+exhibition at the Exploratorium in San Francisco, was
+built to his specification by an artist, Martine Vite,
+whom he met in a cafe (because there was only one seat
+available).
+Below the reticulum, scrawled calculations contested for space among heaps of
+books, journals, notebooks, and letters; even the vertical surfaces
+were awash with mathematical notes and cartoons.
+All chairs (including his own) had been
+conscripted to serve as auxiliary desks, and the
+computer and typewriter were layered with papers.
+One got the impression of a teeming jungle ecology, with each
+organism competing for the constraining resource of I. J. Good's
+attention.</para>
+    <para id="id2253820">In the center of Jack's desk was a tiny clearing, about
+the size of a regular folio sheet.
+Every piece of research
+that Jack has done in the last fifteen years was written out
+within its confines.
+I put the tape recorder there.</para>
+    <para id="id2253827">Banks: 
+Let's begin with your childhood and go through the
+basic biographical details.
+I understand that your father was a
+clockmaker who then went into antique jewelry.</para>
+    <para id="id2253839">Good: 
+Well, a watchmaker actually.
+He came from Poland, which at
+that time was owned by the Tsar of Russia.
+He learned how to mend watches largely by
+observing a watchmaker through a
+window. They often sit right at the front of the shop where there is
+plenty of light.
+And, later on, in London, he got
+into antique jewelry, and became a prominent dealer
+near the British Museum.</para>
+    <para id="id2253855">Banks: 
+How did he happen to move into antique jewelry?</para>
+    <para id="id2253865">Good: 
+By chance, he happened to become a lover of cameos,
+and traded in them. That led him to antique jewelry.
+So the original name
+of his shop was “Cameo Corner,” and later “Good's Cameo Corner”
+because a sign-writer was too drunk to spell Goodack.</para>
+    <para id="id2253883">Banks: 
+How did your father decide to come to England?</para>
+    <para id="id2253893">Good: 
+He didn't like the country he was living in.
+He didn't see why he
+should fight for Russia where
+pogroms were going on.
+He knew there was no percentage for him to stay in
+Poland, which was owned by Russia.
+So at the age of about 17, with 35 rubles
+to his name, he managed to escape, with a friend, without even
+the money for the train fare.
+They took a large round cheese and slept underneath
+the seats.
+His friend used the cheese as a pillow and as a
+potential bribe for when the
+ticket collector came around.
+They eventually reached England. He did odd jobs and saved until
+he could start on his own. He was getting along
+adequately until his shop was
+burglarized and he had to start again
+by borrowing from my mother.
+Later he wrote an autobiography called <emphasis>Visions and Jewels</emphasis>.
+There is a 1952 edition published by Faber and Faber of London,
+under the authorship Mosheh Oved. This was the name he
+adopted after his marriage with my mother broke up.</para>
+    <para id="id2253924">At the age of eight my mother also came from Russia. 
+She
+came with her parents and later met
+my father, in London, I suppose.</para>
+    <para id="id2253930">I was born in Queen Charlotte's Hospital in London
+on the same day as Kirk Douglas, whose
+parents also emigrated from Russia. He too changed
+his name from Isidore, which he didn't like, but I had
+an extra reason. There were posters all over London
+advertising a play called <emphasis>The Virtuous Isidore</emphasis>.
+That, together with my surname, was too much of a good thing.</para>
+    <para id="id2253944">Banks: 
+You're fairly famous for having been a child prodigy.
+When were you first recognized as such?</para>
+    <para id="id2253956">Good: 
+Well, I don't think anyone called me a prodigy.
+When I was about four I stood up in bed and
+asked my mother what a thousand times a thousand was. She didn't know
+and I told her it was a million.
+A million was a large number in those days.
+That sort of thing suggested I had
+some mathematical ability.
+In elementary school I was good at mental arithmetic and discovered,
+at the age of nine or ten, how to guess, in ten questions, what
+number up to 1000 someone was thinking of.
+But my spelling was terrible and I didn't read a book right
+through until I was nine or more. It was entitled
+<emphasis>Smiler Bunn, Crook</emphasis>.</para>
+    <para id="id2253981">When I was nearly ten, I was in bed with
+diphtheria (that's a disease of course, not a girl,
+unfortunately). I worked on trying to
+extract the square root of two. My sister had shown me how to extract
+square roots by the method resembling long division, bringing down two
+digits at a time.
+And when I'd reached about ten or twelve places, I squared the result
+and of
+course I got something like one point a large number of nines. And I
+began to suspect that perhaps it would never end. Then it dawned
+on me that it couldn't possibly end, since the last digit when squared
+couldn't be a zero, so the answer couldn't be exactly two.
+So then I guessed, incorrectly, that perhaps it was not a
+terminating decimal, but recurring, like one over three,
+and had the form of one whole number divided by
+another whole number.</para>
+    <para id="id2254011">When I began to look for such
+numbers, I always missed by one.
+I found a way of getting as many solutions as I wanted, but they
+were always off by one.
+For example, seven squared was twice five
+squared minus one. It was always plus or minus one. Of course, I
+didn't know I had solved Pell's
+equation.<footnote id="idm7131504">Pell was a seventeenth-century
+mathematician; Euler named the equation 
+<m:math><m:mrow><m:msup><m:mi>x</m:mi><m:mn>2</m:mn></m:msup><m:mo>-
+</m:mo><m:mi>m</m:mi><m:msup><m:mi>y</m:mi><m:mn>2</m:mn></m:msup><m:mo>=</m:mo>
+<m:mo>±</m:mo><m:mn>1</m:mn></m:mrow></m:math> for
+him. Jack was addressing the case when <m:math><m:mrow><m:mi>m</m:mi><m:mo>=</m:mo><m:mn>2</m:mn></m:mrow>
+</m:math>.</footnote></para>
+    <para id="id2254080">So I then suspected that the square root of two wasn't 
+even
+what we would now call a rational number, and it
+was at that time unknown to me that there could be such things
+as irrational numbers.
+Once I started to think about the problem in that way, it was
+fairly straightforward to rediscover Pythagoras's
+<emphasis>reductio ad absurdum</emphasis> proof of the
+irrationality of <m:math><m:msqrt><m:mn>2</m:mn></m:msqrt></m:math>, based on a parity 
+argument.</para>
+    <para id="id2254105">And of course I'm very proud of that, even now,
+because if there was any single instance in my life that shows that I
+had a little bit of
+mathematical genius, I think that was it. At the age of nine,
+or nearly ten, it wasn't bad to make a discovery that Hardy
+described as the greatest invention of the ancient Greek
+mathematicians. Being anticipated by
+great men is now familiar to me, but it is not usually by
+2.5 millennia.</para>
+    <para id="id2254116">Banks: 
+By all means, that's an astonishing accomplishment.
+Do you think the diphtheria helped?</para>
+    <para id="id2254127">Good: 
+Well, it gave me a lot of time. Some
+of the best work by scientists occurred because they were away
+from the madding crowd. Newton is a prime example of that.
+The plague was
+responsible for the beginnings of physics.<footnote id="idp4391520">Newton developed
+much of his theory of calculus and gravitation while in enforced
+isolation at Woolsthorpe, avoiding an outbreak of the
+bubonic plague of 1664–65.</footnote> Newton was bullied at school,
+which also helped.
+“Every sweet has its sour; every evil its good.”</para>
+    <para id="id2254156">Banks: 
+You mentioned that you
+instructed your mother on the product of a thousand times a thousand.
+What sort of family background did you have that would make this arise
+naturally in conversation?</para>
+    <para id="id2254169">Good: 
+Actually, I asked the question
+out of the blue.
+But, to answer your question,
+my father was an intellectual, though he was self-educated.
+He was somewhat of a philosopher, but not a philosopher of science.
+My mother was not well educated, but she was very keen on
+education
+for her children, and I was encouraged a lot by my parents.
+I owe a big debt to them.
+There is a Jewish tradition of supporting
+intellectual activities.
+Perhaps it's because of the study of the <emphasis>Talmud</emphasis>.</para>
+    <para id="id2254191">Banks: 
+J. B. S. Haldane speculated that Jews excel in scholarship
+because throughout the Middle Ages, virtually every Christian who
+could read had to take a vow of chastity, while the Jewish community
+supported their rabbis, who had large families, and who would
+marry their daughters to star students.</para>
+    <para id="id2254211">Good: 
+I'd not read that. Compensation for antisemitism
+is another theory. Haldane was a master of
+partly baked ideas and he submitted an article to
+<emphasis>The Scientist Speculates: An Anthology of Partly Baked 
+Ideas</emphasis>.
+[Note: I. J. Good, general editor, Heinemann, London, 1962;
+Basic Books, Inc., New York, 1963; German translation,
+Econ. Verlag, Dusseldorf, 1965; French translation, Dunod, Paris,
+1967; paperback, Capricorn Books, New York, 1965.]<footnote id="idp9886208">Later
+IJG edited a column of partly baked ideas, from 1968 to
+1980, for the <emphasis>Mensa Bulletin</emphasis>. There were
+about 800 pbis which were collected together in
+a report (#2166). An example was the proposal of
+DNA “fingerprinting.”</footnote>
+But Haldane was annoyed when the publisher, which was
+Heinemann's, in the early stages gave more prominence to
+Arthur Koestler's name as a “scientist” who would
+be represented in the book. So Haldane withdrew his
+contribution and published it elsewhere.</para>
+    <para id="id2254260">Banks: 
+It invites anticlimax to ask, but were there other
+childhood incidents of similar mathematical insight?</para>
+    <para id="id2254271">Good: 
+Well, when I was thirteen I
+discovered mathematical induction for myself from a
+problem in H. E. Dudeney's book <emphasis>Amusements in Mathematics</emphasis>
+(a book that taught me a lot about solving problems).
+It concerned the number of balls needed to construct a pyramid
+based on an <m:math><m:mi>n</m:mi></m:math>-sided square.
+I looked up the solution and wanted to prove it.
+After thinking about this for two days, I proved it by
+what I now know to be induction. It came in a flash of inspiration.</para>
+    <para id="id2254303">Another instance, at about the same age,
+which was important in my mathematical education, was when a
+schoolmaster, Mr. Smart,
+wrote out about
+nine exercise questions on the blackboard and as soon as he finished writing
+the ninth, I said obstreperously, “I've finished.”
+He said, “You mean the
+first question?” and I answered, “All of them.”
+One of the exercises was
+how high would a gallon bottle be if
+a one-pint bottle of the same shape were nine inches high.
+That took me about three seconds; he asked me what
+was my thinking.
+I said I'd imagined the bottle to consist
+of a very large number of small cubes, and then applied a magnifying
+glass to this which would double the length of each cube.
+And since I knew
+there are eight pints in a gallon, the magnifying glass
+would convert the pint into a gallon, so to speak.</para>
+    <para id="id2254325">After that I didn't have to listen to his
+“lectures.”
+He, and my later teachers,
+Oliver, Edge, and S. L. Baxter, just gave me books and notes to read.
+I was in the classroom, but working on these books from then on
+in high school and I never again had to listen to mathematics
+schoolmasters' lecturing.
+But of course they did help me. They suggested what I
+should read, and solved problems that I failed to solve.</para>
+    <para id="id2254340">Banks: 
+It sounds as though your school was admirably flexible.
+Could you give us a bit more information about it, and the
+exposure it gave you to mathematics?</para>
+    <para id="id2254352">Good: 
+I went to the Haberdashers' Aske's school in Hampstead from
+1928 to 1935.
+It was a secondary day school, as opposed to a boarding school, for boys.
+People did not always go into the top class, called the sixth form.
+Only about one person out of, say twenty, even in the sixth form, went on to
+the university.
+So the level of education was, for the average person,
+much lower than it is now.</para>
+    <para id="id2253530">There was no experimenting with the new math, which
+had not yet been “invented.” It was
+straight trigonometry and algebra and geometry.
+I went considerably beyond what the other boys were doing.
+The book I enjoyed most, a big book which I worked right through,
+was Edwards's book on differential calculus.
+After that I did the same with G.H. Hardy's <emphasis>Pure 
+Mathematics</emphasis>.
+In the early days my main supervisor was H. C. Oliver, who had real
+mathematical ability.
+So, of course, when I went to Cambridge, my first courses were
+easy.
+In the sixth form I read a history of mathematics.
+It mentioned the theorem that every prime of the form
+<m:math><m:mrow><m:mn>4</m:mn><m:mi>n</m:mi><m:mo>+</m:mo><m:mn>1
+</m:mn></m:mrow></m:math> is the sum of two squares, with an indication that
+it could be proved by using Gaussian integers (of the form
+<m:math><m:mrow><m:mi>a</m:mi><m:mo>+</m:mo><m:mi>i</m:mi><m:mi>b
+</m:mi></m:mrow></m:math>).
+I managed to prove it in two days, using 13 lemmata.</para>
+    <para id="id2253053">Banks: 
+This school apparently did a great deal to encourage your
+mathematical bent. What were your other courses like?</para>
+    <para id="id2253064">Good: 
+I rather enjoyed physics, which
+of course is somewhat like mathematics. But I didn't like heat
+experiments
+because when I did them the steam would escape and my results
+would be badly wrong. But once, in an experiment on sound,
+my observations plotted so precisely on a straight line
+that I thought I'd be suspected of cheating, so I
+cheated by moving the points slightly off the line.</para>
+    <para id="id2253080">History I did not enjoy at school. My attitude has 
+changed because
+I now know some history, partly from films, and partly by
+living through a lot of it.
+I would always fall asleep
+during history lessons, so they had some value for my health.
+When you have very little
+historical background, it can be a dull subject. Usually
+the attention was on whether a particular ruler was a good
+king or a bad one, as in <emphasis>1066 And All That</emphasis>.
+I usually went to sleep as soon as the teacher,
+Mr. Meadows, started to talk and I wouldn't even remember
+which king he was talking about.
+Mr. Meadows was himself rather dull until he got married.</para>
+    <para id="id2253604">The French schoolmaster liked talking about his travels 
+and we always
+encouraged that because we didn't want to learn vocabulary.
+Some of his travel stories were
+repeated many times.</para>
+    <para id="id2253611">Another character, nicknamed Chaucer, was the deputy 
+head
+of the school. When he retired he wrote a book called
+<emphasis>Schoolmasters All, or Thirty Years Hard</emphasis>
+for which he might well have been sued.
+It was bitingly funny.</para>
+    <para id="id2253622">Banks: 
+Let me ask a question that loops back to our previous discussion.
+Given that as a child you had discovered Pell's equation, and
+proven the irrationality of the square root of two,
+and found the principle of induction, and otherwise
+laid several independent cornerstones, that seems a type of
+phenomenal childhood capacity which would be impossible for any adult to
+fulfill.
+How do you think you were in a position to do
+so much fundamental work so young?</para>
+    <para id="id2253639">Good: 
+As for the square root of two, that's an area
+for which I had time. There was nothing else particularly to do, I was
+in bed for five or six weeks. And as I said,
+mathematics or arithmetic interested me, I suppose as an
+art form or a game.</para>
+    <para id="id2253653">Banks: 
+I was wondering whether the progress of mathematics has
+made certain of these questions easier to ask when you were a child
+than they would have been for the ancient Greeks.
+For example, you had been taught about repeating decimals.</para>
+    <para id="id2254914">Good: 
+I did have that advantage over the Greeks.
+All they had was integers and fractions.
+As you probably know, the Pythagoreans suppressed
+their discovery of irrational numbers, which made progress
+more difficult for their contemporaries.
+It was one of the earliest cases of a ban on new technology.
+There is a legend that they assassinated a man who
+revealed the secret; I suppose they were fundamentalists.</para>
+    <para id="id2254937">The Pythagoreans wouldn't have used decimals, but they 
+might also
+have arrived at the proof by first “missing by one” again and
+again before suspecting the irksome truth that
+<m:math><m:msqrt><m:mn>2</m:mn></m:msqrt></m:math> was not 
+kosher modulo their religion. Perhaps
+they too solved Pell's equation. So for me the
+decimal system was a distraction as well as an aid.</para>
+    <para id="id2254958">I was helped in the induction case because the
+formula in terms of <m:math><m:mi>n</m:mi></m:math> was given
+at the end of the book.
+Without the answer being given, I don't know whether
+I would have discovered it—I might have done so in the context of
+<emphasis>scientific</emphasis> induction, but I doubt it.
+It would have been a much better achievement if I'd both discovered
+the formula and discovered how to prove it.</para>
+    <para id="id2254984">Banks: 
+What do you think was the wellspring of your creativity in
+mathematics?</para>
+    <para id="id2254994">Good: 
+Interest—being interested is almost the entire answer.
+I thought, wrongly, that I had a bad memory, so I
+preferred logical thinking as a compensation.
+I liked mathematics partly
+because it was the only thing I could do well.
+At an early age I wasn't
+physically strong compared
+with my classmates, who were older. At first
+I was rather scared to play cricket with older
+boys, but I once scored 37 not out when I was
+about seventeen.
+At that age I reached the final round
+in the 220-yard race.
+The way I got training
+was by running to catch buses because I always got up
+late. I'd see the bus about 200 yards down the road coming along
+and nearly every morning I would get to the bus just in time.
+As Churchill would have said, I gave the bus a sporting chance
+to get away.</para>
+    <para id="id2255030">Banks: 
+That sounds like quite a frazzling way to start the day.
+Could you tell me what it was like when you went on to Cambridge?
+How did the university seem to you?</para>
+    <para id="id2255042">Good: 
+Well, I was at Jesus College, in part because it
+was something of a tradition to go there from my school.
+While I was in school we
+had two or three people going to Cambridge who went to Jesus
+College.
+I would have been better off in many ways, I suppose, if I had
+chosen Trinity College, which of course was a
+well-established mathematical college.</para>
+    <para id="id2255057">Banks: 
+Do you remember any details of your mathematical lecturers
+at Cambridge?</para>
+    <para id="id2255068">Good: 
+One was A. E. Ingham, who wrote a well-known tract on prime number theory.
+He was a very accurate lecturer.
+If he went into parentheses or
+even into brackets within parentheses when he was talking,
+he always emerged, closing everything perfectly.
+You could write down everything he said if you were a fast writer,
+and you would generate a little textbook.
+He wasn't so much an inspired lecturer, but he was always
+interesting and always accurate.
+Another excellent lecturer was J. C. Burkill. Years later,
+he told me my homework answers were the best of any student
+he ever had.
+G. H. Hardy was a rather inspiring speaker,
+much harder to follow than
+Ingham or Burkill, but his course was more advanced.</para>
+    <para id="id2255089">I also recall F. P. White, who taught projective 
+geometry.
+He reminded me of a cartoon character, “Professor
+Strabismus, whom God preserve, of Utrecht.”
+I used to come in a quarter of an hour late to his classes;
+there was a door at the back of the room so I could slink
+in unobtrusively.
+But not unobtrusively enough, for on one occasion
+he said people who come a quarter of an
+hour late shouldn't come at all. But I was pretty good at
+geometry.</para>
+    <para id="id2255106">L. A. Pars was my tutor at Jesus College when I was an 
+undergraduate.
+He was a very good mathematician and
+an excellent tutor. He later became the
+master of the college and he wrote a very well-received book on
+classical
+mechanics published after my time.
+He always had slick proofs but they were too slick. He taught us quite a
+bit about complex variables. He seemed to delight in giving the
+solution to homework at the next class so quickly that you
+could hardly follow it.</para>
+    <para id="id2255117">Banks: 
+Did you enjoy Cambridge?</para>
+    <para id="id2255126">Good: 
+Most of the time I enjoyed it. I was very, very shy at that time,
+so I didn't enjoy life as much as I might have done
+at that age. I think I cured my shyness much later by
+autosuggestion.</para>
+    <para id="id2255139">Banks: 
+That's an unusual approach. I can't say I put as much stock in
+autosuggestion as you seem to.</para>
+    <para id="id2255150">Good: 
+I certainly do, because of the success I had with it. It was
+popular in the 1920s.
+I first read about it seriously in a book called
+<emphasis>Suggestions and Autosuggestions</emphasis>, by Charles Baudouin,
+who was a follower of Emile Coué.
+The techniques were popular then with psychologists,
+but not now, and I think they are making a mistake.
+I think it's the most important idea in psychology from a
+purely practical point of view and I conjecture
+that it's not regarded as entirely respectable in the trade because it
+doesn't help psychologists to make a living,
+and perhaps because it is not a good topic
+for doctoral theses.</para>
+    <para id="id2255180">Banks: 
+Apparently the basis for your support of autosuggestion
+is that it worked well in your case.
+Doesn't this seem to be a sample of size one?
+And isn't the one involved an atypical member of the
+population?</para>
+    <para id="id2255192">Good: 
+Well, yes, but consider the combination of
+my experience, plus Baudouin's book, plus the
+uncontroversial existence of suggestion that isn't auto.
+There's a very simple experiment showing that
+autosuggestion does work to some degree, at least.
+Hang a weight
+on a string and imagine the weight going round clockwise,
+counter-clockwise, back and forth, or left and right.
+Without conscious muscular effort on your part, you find that after
+about half a minute, it goes the way you imagined.
+I think most people can do this experiment successfully.</para>
+    <para id="id2255211">Banks: 
+Interesting; it still seems like a slender thread on which to hang a
+claim for the “most important idea in psychology.”</para>
+    <para id="id2255225">Good: 
+Yes, it works best with a slender thread. The point of the
+experiment is to break down initial resistance.
+Relaxation is
+essential when practicing autosuggestion, as in hypnotism.
+If you ask someone to try autosuggestion you must first make
+little tests, for example, you hold them by the wrist and
+say I'm going to let go of your arm suddenly and your arm should
+drop as if by gravity.
+If it drops differently, then they are not yet relaxed.
+Some people find it difficult to relax to that degree.
+But usually, I can teach anyone who can relax how to do
+autosuggestion in ten minutes.
+It's very simple.</para>
+    <para id="id2255244">Clinical trials take for granted the importance of 
+autosuggestion;
+otherwise placebos wouldn't be used.
+I don't know what trials have been done to test the
+value of placebos themselves!
+Such experiments would be easy to do.
+I think we continually use autosuggestion unconsciously
+to maintain a stable self-image. Perhaps men who feel tough walk
+about doing isometrics, thinking, “Clap that man in irons.”</para>
+    <para id="id2255261">Banks: 
+Were there classmates of yours who stand out in your memory?</para>
+    <para id="id2255272">Good: 
+There were several, but let me mention
+my friend John Francis O'Donovan, with whom I used to play
+a lot of chess. I think he played board one for Ireland in an
+international chess tournament at the beginning of World War II.
+It was held in Argentina and he
+stayed there—he's still there, teaching English at the university.
+He never fought in World War II; since he was Irish he didn't
+particularly feel that he should,
+though I think he regarded himself as more
+British than Irish. Similarly,
+my parents were from Russia, but I always thought
+of myself as very British.
+My license plate is Double-Oh 7 IJG.</para>
+    <para id="id2255300">Banks: 
+You've got an inimitable style.
+Would you like to comment on your graduate study at Cambridge?</para>
+    <para id="id2255311">Good: 
+It was fairly natural for me to go on to graduate study
+because I knew I was pretty good at mathematics.
+I discovered that I wasn't
+quite as good as I thought, compared with the very best of the undergraduates.
+(Perhaps I played too much chess, which can easily become an obsession.)
+It was quite different from my school where my name was regarded as
+a synonym for mathematics.
+But at Cambridge I
+discovered there were other people just as good as I was.</para>
+    <para id="id2255328">My graduate advisors were Besicovitch and Hardy.
+I think what I most liked then was
+amazing formulas such as those of Ramanujan.
+I think the closest I've got to Ramanujan
+was in my paper on characteristic functions of functions.</para>
+    <para id="id2255335">In my doctoral program, my first study was functions of 
+a
+real variable.
+Probably that was because I
+happened to have had a course on that.
+At one point I said to Besicovitch,
+“You can sometimes
+prove that a set is measurable by proving that its measure is
+zero. But now consider a nonmeasurable set of real numbers
+expressed in the scale of 10. By leaving the digits
+as they are, but imagining the scale to be 11, suddenly the set
+becomes of zero measure and is therefore measurable.
+But the set doesn't deserve to be called measurable
+because it is not constructible, so it's a swindle.”
+Besicovitch then pointed out that the swindle could be
+avoided by means of the concept of Hausdorff
+instead of Lebesgue measure, in other words by means of
+fractional-dimensional measure.
+It so happened that Besicovitch
+had written several papers on the topic. He suggested that
+I might investigate the fractional dimensions of sets of
+simple continued fractions defined in a simple manner.
+I found, for example, that the set for which the
+partial quotients <m:math><m:msub><m:mi>a</m:mi><m:mi>n</m:mi></m:msub></m:math> tend to 
+infinity has fractional
+dimensional number (fractal number) <m:math><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math>.
+When <m:math><m:mrow><m:msup><m:mrow/><m:mi>n</m:mi></m:msup><m:msqrt>
+<m:msub><m:mi>a</m:mi><m:mi>n</m:mi></m:msub></m:msqrt></m:mrow></m:math> is 
+unbounded, the
+fractal number is again <m:math><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:math>. And 
+if
+<m:math><m:mrow><m:msub><m:mi>a</m:mi><m:mi>n</m:mi></m:msub><m:mo>=
+</m:mo><m:mn>1</m:mn></m:mrow></m:math> or 2 for all <m:math><m:mi>n</m:mi></m:math>, the fractal number is about 0.53.
+The set can be generated chaotically by the transformation</para>
+    <equation id="id2255474">
+      <m:math mode="display">
+        <m:mrow>
+          <m:msub>
+            <m:mi>x</m:mi>
+            <m:mrow>
+              <m:mi>n</m:mi>
+              <m:mo>+</m:mo>
+              <m:mn>1</m:mn>
+            </m:mrow>
+          </m:msub>
+          <m:mo>=</m:mo>
+          <m:mn>1</m:mn>
+          <m:mo>/</m:mo>
+          <m:mrow>
+            <m:mo>(</m:mo>
+            <m:msub>
+              <m:mi>x</m:mi>
+              <m:mi>n</m:mi>
+            </m:msub>
+            <m:mo>+</m:mo>
+            <m:msub>
+              <m:mi>δ</m:mi>
+              <m:mi>n</m:mi>
+            </m:msub>
+            <m:mo>)</m:mo>
+          </m:mrow>
+        </m:mrow>
+      </m:math>
+    </equation>
+    <para id="id2255525">where 
+<m:math>
+<m:mrow><m:msub><m:mi>δ</m:mi><m:mi>n</m:mi></m:msub><m:mo>=
+</m:mo><m:mn>1</m:mn></m:mrow></m:math> or 2 at random. To get a planar picture,
+which would be visually more interesting, one could take
+<m:math>
+<m:mrow><m:mi>δ</m:mi><m:mo>=</m:mo><m:mi>w</m:mi></m:mrow>
+</m:math> or <m:math><m:mi>z</m:mi></m:math> at random where 
+<m:math><m:mi>w</m:mi></m:math> and <m:math><m:mi>z</m:mi></m:math> are complex numbers.</para>
+    <para id="id2255594">The fractal number of a set can be regarded as a
+measure of its texture, especially in two or three dimensions.
+The thesis was awarded a Smith's Prize.</para>
+    <para id="id2255600">Banks: 
+When you left Cambridge, you began your World War II
+involvement with Alan Turing and the Enigma project.
+How did you happen to get recruited to Bletchley in the first place?</para>
+    <para id="id2255613">Good: 
+I was on what was called the reserve list. So I didn't have to join
+the Army. They were deliberately reserving some of the
+mathematicians,
+physicists,
+and so on, in case they were required
+elsewhere.
+That was different from World War I, which had no reserve list.
+Henry Moseley, the physicist who used X-rays to determine atomic
+numbers of elements, was killed in battle, and so was the poet
+Rupert Brooke.</para>
+    <para id="id2255630">Banks: 
+I doubt that the World War II reserve list conserved poets.</para>
+    <para id="id2255641">Good: 
+No, that's probably true, though I met one poet,
+Henry Reed, at Bletchley. He had been extracted from the Army
+where he had written a famous poem about the naming of parts of a
+rifle. He again proved he was a poet by saying he
+was a chronic pneumonic.</para>
+    <para id="id2255656">I was in the same billet as he and David Rees. The 
+landlady's
+grandson, aged about four, said his mother was a lady but his
+grandmother was only a woman.</para>
+    <para id="id2255662">Banks: 
+I don't recognize the name, Rees.</para>
+    <para id="id2255672">Good: 
+I didn't know Rees at Cambridge.
+He was an algebraist, who worked on semigroups (in which
+elements are not assumed to have inverses).
+He was in on the ground floor because he judged
+early on that the topic was important.
+He first convinced me that the topic might be of value by pointing
+out the example of mappings of finite
+sets <emphasis>into</emphasis> themselves rather than <emphasis>onto</emphasis>.
+That struck me as a natural enough idea
+to be worthy of study but I didn't expect the topic
+to have much structure. It had enough to get David Rees
+an FRS; there's also E. Hille's book on functional
+analysis and semigroups.
+I mentioned David Rees, as a colleague, in my chapter in
+<emphasis>Codebreakers:
+The Inside Story of Bletchley Park</emphasis>.
+[Note: F. H. Hinsley and Alan Stripp, eds., Oxford University Press, 1993.]
+The paperback edition gives the more complete account of my work.</para>
+    <para id="id2255713">Banks: 
+Well, let me go back. How did you happen to land at Bletchley
+rather than in any of the several other areas of war research?</para>
+    <para id="id2255725">Good: 
+I was offered two war jobs simultaneously. If I had taken the
+other one I would have been in radar
+although I didn't know that
+at the time. So then I might still have
+gotten into computers, via
+cathode ray tubes, but working with a firmer engineering background,
+rather like Tom Kilburn, who later came to Manchester
+to organize the construction of the Manchester University Computer.</para>
+    <para id="id2255742">In any case, as I said, I was on the reserve list.
+At one time Bletchley was hiring several people.
+I'm sure the organization would have preferred to recruit cryptanalysts, but
+there weren't many of those, and mathematicians were thought to
+be rather good at that sort of thing. (They hired one cryptogamist
+by mistake!)
+So I was up for that job and also this other job
+involving radar.</para>
+    <para id="id2255752">Not knowing about radar, I thought it would be
+much more romantic to work on German cipher
+systems. Although we weren't told precisely what kind of work
+was involved, another chess friend of mine,
+Bernard Scott, guessed it was about secret ciphers.
+We were both interviewed on the same occasion for
+this job.
+And he showed his friendship, because he said,
+“Wear your scarf inside your coat, otherwise you'll look too much
+like an undergraduate,”
+even though we might have both been applying for precisely the same job.
+In fact he did work on the Enigma for a short time, but
+not on the Naval Enigma, and I lost touch with him
+during the war. Later, he headed the mathematics
+department at Sussex University.</para>
+    <para id="id2255777">Banks: 
+Can you give me some better sense of the arrangement of things
+at Bletchley?</para>
+    <para id="id2255788">Good: 
+Bletchley is a rather small town
+halfway between Oxford and Cambridge, and about fifty miles from
+London.
+Bletchley Park (BP) was where we worked.
+There was one large Victorian
+central building and a number of
+improvised huts were constructed.
+Most of them still exist, although in a state of disrepair.
+The government has agreed to establish BP as a historic area.
+There is now a pub in Bletchley called The Enigma.
+I had an invitation to visit BP not long
+ago but I declined because I no longer like to travel much.
+I would have felt like a ghost.</para>
+    <para id="id2255806">Banks: 
+What kinds of people were gathered together at Bletchley?</para>
+    <para id="id2255818">Good: 
+Intellectuals of various kinds.
+Let me tell you how I met Hugh Alexander.
+He had been British chess champion twice, so he was very well
+known in British chess circles.
+I used to play rapid chess
+with him, before I was hired,
+in the comfortable chess club in the John
+Lewis store, which was later destroyed by a bomb.
+And he was one of the people who interviewed me.
+He was my boss and friend for many years.
+At that time I could hold my own against him, and against
+Golombek and Vera Menchik in rapid chess, but they would have
+won easily in serious chess. Vera Menchik was probably the
+strongest woman player ever.</para>
+    <para id="id2255838">Bletchley Park liked chess players—they believed
+that chess players and mathematicians had an aptitude for cryptanalysis.
+Hugh's closest friend was probably Stuart Milner-Barry,
+another chess master. I met him at a chess match a week or two
+before going to Bletchley,
+and I asked, “Are you working on German
+ciphers?” and he said, “No, my address is Room 47, Foreign
+Office.”
+But when I arrived at BP
+I found, sure enough, that he was working on German ciphers.
+Milner-Barry wrote a fine memoir for Hugh
+in <emphasis>The Best Games of C. H. O'D. Alexander</emphasis>
+(by Golombek &amp; Hartston, Oxford, 1976).</para>
+    <para id="id2255861">I arrived at BP on the day the Bismarck sank.<footnote id="idp4868224">This
+was May 27, 1941.</footnote>
+Alexander met me at the train station
+and he immediately told me
+we were beginning to
+break the German Naval cipher,
+one of the German uses of the Enigma.
+He was the deputy head of Hut 8,
+whereas Milner-Barry was the head of
+the adjoining Hut 6, which dealt with
+non-naval uses of the Enigma. When I
+arrived, the head of Hut 8 was Alan Turing, but after about a year,
+Turing was moved to work on developing methods for
+the encipherment of speech, and Alexander became the head of Hut 8.
+He was first class both technically and as an administrator.
+When the work on the Enigma needed more resources,
+Alexander, Milner-Barry, Turing, and
+Welchman wrote a successful appeal to Winston Churchill,
+over the head of the director of BP.</para>
+    <para id="id2255885">Another person, who arrived somewhat after I did, was 
+Max Newman.
+He was a Fellow of the Royal Society, a mathematician who'd written
+a well-known book on plane topology.
+He was also interested in logic.
+After the war he became president of the great London
+Mathematical Society and was highly influential in
+appointments in the U.K.
+He did not encourage people to work on logic.
+Turing had been his student in Cambridge
+before the war, but now Turing had become
+more famous, being described as a genius.
+The play <emphasis>Breaking the Code</emphasis> was about his life and death,
+as was the book <emphasis>Alan Turing: the Enigma</emphasis>
+by Andrew Hodges.</para>
+    <para id="id2255919">In 1943 I moved from Hut 8 to the “Newmanry,”
+working on the use of machine methods for
+decrypting the German teleprinter cipher
+system called Fish.
+Donald Michie and I were Newman's first two cryptanalytic
+assistants; eventually there were at least
+sixteen, including the famous topologist,
+J. H. C. Whitehead.
+There were also about six engineers and 273 Wrens (members of
+the Women's Royal Naval Service).
+Newman had previously worked in a section,
+under Major Tester, where hand methods were used.</para>
+    <para id="id2255933">Being in on the
+ground floor was a big advantage (though the initial breakthrough
+was actually made by W. T. Tutte, who deduced the structure of the
+machine; based on his work, our job was to infer the current day's
+parameter values, or the key, and then decrypt messages).
+I did about half the
+cryptanalytic and statistical research of the section.</para>
+    <para id="id2255942">Banks: 
+What are hand methods?</para>
+    <para id="id2255953">Good: 
+The non-machine approaches.
+Peter Hilton (now a prominent
+mathematician), for example, could think of two
+teleprinter letters (pentabits)
+in his mind's eye, and add them together modulo 2
+almost instantaneously.
+Of course it took practice, but that was an indication of how
+good he was at that work.
+I think Newman felt inferior in the “Testery”
+and especially when he compared himself with Peter.
+So he thought, “Well, this is really mostly mechanical work.
+We need a machine for this purpose.”
+I once said that this was unconsciously suggested to him by
+his familiarity with
+Boolean logic, but Newman denied that (rightly
+or wrongly). He said
+he had simply felt this was the way to do things properly.
+Newman probably knew of the so-called Bombe, which was the
+electromagnetic cryptanalytic computer used for the
+routine attacks on the Enigma cipher.
+So you've got a sort of square—Enigma, Bombe, Fish,
+and, ultimately, the Colossus computer, used as
+an aid to deciphering Fish messages.</para>
+    <para id="id2255984">So as part of the Fish project, a machine was
+built, mainly to Newman's
+specifications, though I think Turing had something to do with it.
+The first cryptanalytic machine for attacking Fish
+was called the “Heath Robinson,” which
+was the name of an artist like Rube Goldberg.
+It tended to go wrong frequently.
+Some of its faults could be diagnosed by the sound or
+even by the smell, when it was trying to catch fire.
+Some statistical work by Donald Michie and myself,
+and my insistence that what is not checked is wrong (Good's Law),
+led to occasional success by Heath Robinson
+and this was enough to justify the building of a better machine.</para>
+    <para id="id2256005">That machine was the Colossus, which
+has some claim to being the first working
+large-scale electronic computer.
+The main engineer was Tom Flowers.
+It wasn't a general-purpose computer, though it did
+become more general purpose than
+was originally intended because it was
+based on Boolean logic, which
+gave it a flexibility that came in very useful.
+It was about twelve feet wide,
+seven feet high, and eight feet thick.
+It had about 2500 bottles or what we
+called electronic valves, which were like
+vacuum tubes, though they were gas-filled
+thyratrons.</para>
+    <para id="id2256017">Most engineers thought
+a machine with so many tubes couldn't possibly work, and I doubted it
+too.
+Just on probability grounds, you'd expect some of the tubes to
+break down each time the machine was used.
+But Flowers happened to know something
+that most people didn't know, namely,
+that if you leave the tubes on all the time, then, if
+they don't fail early on, they
+are much more reliable than if
+you turn them on and off.
+Sure enough, after they had some running time, there
+was little trouble; if a tube went wrong, one just
+replaced it with a new one.
+Gradually the machine, and its successors,
+became highly reliable.
+I once calculated
+that the machine could sometimes run
+for 10<m:math><m:msup><m:mrow/><m:mn>11</m:mn></m:msup></m:math> binary 
+operations, within
+the whole machine (which was partly
+parallel), before it went wrong.
+I should say before it went
+<emphasis>noticeably</emphasis> wrong, since it was possible for
+the machine to have errors that wouldn't make any essential
+difference.</para>
+    <para id="id2256067">The building of the
+Colossus required half the staff of the Dollis Hill
+Research Station (which was normally
+responsible for telephone research).
+Most of the staff
+weren't told what their work was for
+because of the “need-to-know” principle.</para>
+    <para id="id2256079">This need-to-know principle was pervasive at BP.
+Even when I was working
+on the Enigma, it was some time before I asked Turing, “How
+on earth did we discover the wirings of the wheels?”
+I didn't have the right to ask the question—I didn't need to know.
+But my curiosity eventually overcame my scruples.
+And Turing was vague; he said, “Well, I suppose the Poles,” and
+I said, “And I suppose a pinch,” a pinch being a capture.
+(At that time I didn't know of the contribution of the Poles;
+three Polish mathematicians who, using information obtained by the
+French secret service, had applied group theory and guesswork to solve
+an early form of the Enigma machine.)
+Later, we captured a U-boat (submarine), which contained
+an Enigma machine and some keys.
+The captain of the U-boat
+was supposed to have immersed the keys in water,
+which would have removed all the print, and he realized he'd
+forgotten to do that.
+After he emerged from the submarine, he tried to go back and was shot.
+So he didn't manage to destroy
+the keys, which were very useful for the next two or three months.</para>
+    <para id="id2256121">They were going to tow the U-boat
+into port, but fortunately it sank.
+I say <emphasis>fortunately</emphasis>, because if it hadn't sunk, the Germans
+might well
+have discovered we had captured a U-boat, and they would have assumed
+we had captured the keys.
+If they didn't change from the Enigma
+itself, which would have been very expensive for them
+and unlikely, at least they would have printed new keys.</para>
+    <para id="id2256136">Banks: 
+What kinds of mathematical work did you do at Bletchley Park?</para>
+    <para id="id2256147">Good: 
+I did several kinds of mathematical work there, some of it was fairly
+technical and some was fairly elementary.
+For example, I devised decision trees for the Colossus
+computer; also, instead of
+summing squares, I suggested summing absolute values because
+it was faster. There was
+a simple way of converting summed absolute values into a “sigmage,”
+rhyming with “porridge.” Speed was of the essence.</para>
+    <para id="id2256171">Banks: 
+I imagine there were lots of applied tricks that to a
+mathematician were sort of trivial but in practice were
+important and useful.</para>
+    <para id="id2256183">Good: 
+Sure, I can mention another one.
+It was extremely trivial.
+When I first arrived on the Enigma project, they
+were working on a process called Banburismus, which was a sequential
+Bayesian cryptanalytic process. They
+were using decibans (weights of evidence),
+with one decimal point.
+So I thought to myself, “Why don't we drop the
+decimal point, and call the unit a centiban,
+thus saving a lot of writing?”
+And then I noticed that if we used a
+half deciban (hdb) we would save
+much more time in both writing and arithmetic because
+most of the individual scores would then be single digits.
+I also worked out (and this is where it wasn't entirely trivial)
+how much information
+(expected weights of evidence) we would lose by this additional
+rounding off, and it wasn't much.
+The formula looked a little like something that
+arises in Planck's original paper on quantum theory.</para>
+    <para id="id2256214">This must have saved half the time of the work on 
+Banburismus.
+Of course, every numerical analyst knows that you shouldn't carry more
+decimal points than you need,
+in hand calculations, and it was essentially in that spirit
+that I made this suggestion.
+But here were these highly intelligent people who for some weeks
+had been using the deciban with a decimal point.</para>
+    <para id="id2256223">Banks: 
+What was the intellectual and social life like at Bletchley Park?</para>
+    <para id="id2256234">Banks: 
+Speaking for myself, my main social life was with a few friends,
+and going to dances at Woburn Abbey where the
+Wrens were billeted.
+In the bus returning from Woburn Abbey, Peter Hilton would
+lead the singing of bawdy songs.</para>
+    <para id="id2256248">Also I played chess and
+Go and had intellectual and mathematical discussions
+with Turing and Rees. For example, Turing
+and I discussed the possibility of machine intelligence
+and automatic chess. Other people were involved
+in drama and tennis and, presumably, sex. There were many
+young ladies around but I was too shy and too busy to
+profit much by that.</para>
+    <para id="id2256258">Banks: 
+How were things administered at Bletchley?
+Some of the books on the subject make it sound like you were
+all an ungovernable pack of eccentric boffins.</para>
+    <para id="id2256270">Good: 
+None of my three bosses were bossy.
+There was no point in being bossy because everybody
+wanted to help the war effort.
+Turing was one of the
+eccentrics. He was head of Hut 8 when I arrived, but
+I don't think he liked administration and he wasn't too
+good at it. It is probably just as well that
+Alexander eventually took over.</para>
+    <para id="id2256286">After Turing left Hut 8 he continued to live at his 
+billet,
+The Crown Inn, three miles from BP.
+I kept in touch with him because he had taught me the
+game of Go and I used to visit him to play the game.
+(I didn't know he was homosexual.)
+Eventually I was able to give him a handicap of
+six stones. He thought deeply rather than quickly
+and said his I.Q. was only about the average for
+Cambridge undergraduates.
+Also I think I had the advantage of having played a lot of
+chess in which all players think, “If I go there, then he might
+go there, then I could go there, and if instead
+he goes there, then <m:math><m:mo>...</m:mo></m:math>”; in 
+short, a tree analysis with
+evaluations at the end nodes.
+I think I transferred an ability from one field
+into another one.</para>
+    <para id="id2256321">Soon after the war my main Go opponent
+was Roger Penrose.
+He was a little better at the game than I was but
+that wasn't why he was knighted.
+It is a fascinating game but I've played very little
+in the last forty years. I think it is more complicated
+than chess, and chess than checkers, because
+<m:math>
+<m:mrow><m:msup><m:mn>3</m:mn><m:mn>361</m:mn></m:msup><m:mo>&gt;</m:mo><m:mo>&gt;</m:mo><m:msup><m:mn>13</m:mn><m:mn>64</m:mn></m:msup><m:mo>
+&gt;</m:mo><m:mo>&gt;</m:mo><m:msup><m:mn>5</m:mn><m:mn>32</m:mn></m:msup></m:mrow></m:math>.
+Sometimes I discussed consciousness,
+mathematics and physics with Roger and his
+brother Oliver.
+The earliest discussions occurred before
+Roger had become a physicist when I was
+puzzled that <m:math><m:msqrt><m:mrow><m:mo>-
+</m:mo><m:mn>1</m:mn></m:mrow></m:msqrt></m:math> seemed to have a real
+physical meaning. Later discussions convinced
+me that I didn't understand quantum
+mechanics. I was relieved to learn in
+my later reading that if you
+think you understand it, then
+you don't. (I've modified the
+way that Niels Bohr expressed it.)</para>
+    <para id="id2256390">Banks: 
+Perhaps you could comment on Turing's influence in your
+development in statistics and probability.</para>
+    <para id="id2256402">Good: 
+He invented a Bayesian approach
+to sequential data analysis, using
+weights of evidence (though not under that name).
+A weight of evidence is the logarithm of a Bayes factor;
+for a Bayesian, this is the only possible definition.
+And the concept has been
+an obsession of mine ever since.</para>
+    <para id="id2256417">Once I asked him for the “real reason” for the 
+involutary
+property of the Fourier transform and he drew my attention to
+the discrete Fourier transform, which I have used in about
+twenty publications, including (i) my form of the Fast Fourier Transform;
+(ii) the exact distribution of Pearson's <m:math><m:msup><m:mi>X</m:mi><m:mn>2</m:mn></m:msup></m:math> 
+statistic
+for the “equiprobable”
+multinomial; (iii) for speeding up the penalized likelihood
+method for probability density estimation in one or two
+dimensions; (iv) for the enumeration of rectangular
+“arrays” (a famous combinatorial problem); (v) for a generalization
+of complex function theory; (vi) for number theory;
+(vii) for a geological or evolutionary application (with
+Norman Gilinsky); (viii) for a new finite series for Legendre
+polynomials; (ix) for a discrete analog of Poisson's
+summation formula; and (x) for polynomial products.
+Brian Conolly and I published a table of DFT pairs.</para>
+    <para id="id2256456">Turing's empirical Bayes idea for code-word frequencies 
+led to a
+substantial paper of mine, and later for one written
+jointly with George H. Toulmin, dealing with the
+frequencies of words and species.
+For example, I deduced a simple formula for the
+probability that the next word sampled will be one that has
+not previously been observed.
+Makers of dictionaries and teachers
+of languages ought to know about this work because it tells
+you the minimum size of vocabulary required to cover, say,
+98% of running text.</para>
+    <para id="id2256467">One of Turing's ideas was developed by me in a paper on
+regenerative Markov chains. He also pointed out some
+properties of weight of evidence which I generalized in a paper
+on false-alarm probabilities. Also, jointly with Toulmin,
+we found that expected weight of evidence was a
+natural tool for proving a coding theorem in Shannon's theory of
+communication. Weights of evidence are closely related to
+amounts of information.</para>
+    <para id="id2256478">On one occasion I happened to meet George Barnard 
+during the war,
+in London, and I
+confidentially described the use of Bayes factors and their
+logarithms for distinguishing between two hypotheses sequentially.
+Barnard said that, curiously enough,
+in his work for the Ministry of Supply, he was using essentially
+the same method for choosing between two lots of manufactured goods.
+Thus Turing and Barnard invented sequential analysis
+independently of Wald. Barnard has
+forgotten this discussion.
+I remember it with great clarity; he and I were
+standing next to a table and
+a third person had gone down one level to the restroom while we were
+talking.
+If that person had been present
+I wouldn't have mentioned the topic, though it was
+obviously not a secret concept.
+I thought that perhaps it would be useful to tell Barnard
+about this, because he might be able to use it in his war work.
+But he was already using it!</para>
+    <para id="id2256496">In any case, Turing developed the sequential 
+probability ratio test,
+except that he gave it a Bayesian interpretation in terms
+of the odds form of Bayes's theorem.
+He wanted to be able to
+estimate the probability of a hypothesis, allowing for the
+prior probability, when information arrives
+piecemeal. When the odds form of Bayes's theorem is
+used, it is unnecessary to mention the Neyman-Pearson lemma.
+One morning I asked Turing,
+“Isn't this really Bayes's theorem?”
+and he said, “I suppose so.”
+He hadn't mentioned Bayes previously.
+Now, Harold Jeffreys with
+Dorothy Wrinch had previously published the odds form
+of Bayes's theorem (without the odds terminology, and without
+the sequential aspect), and Turing might have
+seen their work, but probably he thought of it independently.</para>
+    <para id="id2256524">In his book on probability, Jeffreys wanted
+to sell his methods, so nearly always he assumed that the prior
+probability of a hypothesis was one half (as did
+C. S. Peirce in 1878, in relation to his throw-away line
+on weight of evidence).
+So the Bayes factor simply turned out in nearly every
+application made in that book to be simply the final odds.
+And I think that was, so to speak, for political reasons.
+He didn't want to appear subjective in the <emphasis>first</emphasis> edition of
+<emphasis>Theory of Probability</emphasis>.
+He aimed to use logical probability (called <emphasis>credibility</emphasis>
+by Bertrand Russell and others).</para>
+    <para id="id2256553">Banks: 
+Did you become a Bayesian in Hut 8, or were you already inclined
+to that way of thinking?</para>
+    <para id="id2256564">Good: 
+I'd already been reading some of Harold Jeffreys, which,
+by the way, Maurice Bartlett thought ought not to be taught
+at Cambridge at the same time as classical statistics.
+In other words, he wanted everybody to be brainwashed according to
+the “orthodox” methods and not to be
+confused by a conflicting philosophy.
+(Incidentally, the word <emphasis>Bayesian</emphasis> seems to have
+first occurred in print in 1956, and <emphasis>Bayes factor</emphasis> in 1958, 
+long
+after I was a student a Cambridge.)
+Jeffreys's book on probability is rather hard going for a
+beginner, and it starts philosophically with a chapter on
+scientific inference, and how one discovers natural laws from
+experience.
+As a philosopher I was interested in the
+Bayesian approach to the philosophy
+of science, which I think covers what is correct in the Popperian
+approach.
+My taste has mostly been toward applicable philosophy.
+As you said over lunch, when a topic becomes sufficiently
+worked out, it tends to leave the Philosophy Department.
+But I don't agree with a remark you made once in print that
+an idea is not respectable until that happens.
+Philosophical respectability is possible, as well as
+statistical respectability.</para>
+    <para id="id2256611">Banks: 
+You left Bletchley around 1945 and went to
+Manchester, arriving there before Turing.
+What did you do at Manchester?</para>
+    <para id="id2256623">Good: 
+I was recruited to Manchester by Max Newman, who
+took a professorship there after the war.
+My official position was as a lecturer, which corresponds
+roughly to an American associate professor, in pure mathematics.
+And I had some responsibility for thinking about the electronic
+computer. F. C. Williams, of the Williams tube device,
+soon arrived. He was the first engineer hired.
+He brought in Tom Kilburn and handed over the project to him a little later.
+D. R. Hartree, the physicist who had built
+a Differential Analyzer (an analog machine), had visited
+America and learnt about the American work on electronic computing.
+Newman, with support from Hartree and P. M. S. Blackett, had
+obtained a grant (approved by the Royal Society) for building an
+electronic computer. Newman's aim was to do
+pure mathematics on the computer.
+But, as I guessed, it turned out to be mainly
+a number cruncher,
+because of course there's a lot of number crunching
+to be done. The tool creates the demand (supply-side economics?)
+and the number of multiplications
+in a random algorithm has a thick-tailed distribution
+like a log-normal.
+I made a mistake that many other people
+made, thinking that one good computer was enough
+for all the calculations to be done in the British Isles.
+Newman more correctly judged that it would be a million-dollar
+industry.
+Of course, it's now a billion dollars.
+If he'd acted on his
+judgment, he could have quickly become a
+multi-millionaire.</para>
+    <para id="id2256658">By the way,
+I have updated a biographical note on Newman, based on one by
+Shaun Wiley, for the forthcoming <emphasis>New Dictionary of
+National Biography</emphasis> (Oxford University Press).</para>
+    <para id="id2256669">I was at Manchester for a couple of
+years only, and, on the side,
+I tried
+to understand quantum mechanics without much success.
+A philosopher of science ought to know something about
+how the universe works.
+So, I was learning and
+kept a notebook of negatively baked ideas.</para>
+    <para id="id2256677">I didn't do much on the electronic computer project,
+but I made about ninety pages
+of notes, some of which were distributed to Newman,
+Rees, Williams, and Kilburn.
+I have given copies of most of the notes to eleven
+historians of computing.
+These notes are #975 in my bound
+papers, copies of which are in the VPI statistics department
+and university library.
+I've promised to bequeath copies of those bound papers to the
+university libraries at Oxford and Cambridge.
+Up to 1990, there are 8932 pages.
+The Oxford librarian says he hopes he'll have to wait a long time!</para>
+    <para id="id2256690">Independently of M. V. Wilkes
+(and perhaps earlier), I had the idea of microprogramming,
+but for the <emphasis>user</emphasis> of the computer.
+That is, the user could reconstruct the elementary instructions
+of the machine, for speeding up specific programs. I called this
+“machine building” in quotes.
+The idea was ignored.</para>
+    <para id="id2256707">After I left Manchester, Newman hired Turing to develop 
+ideas for the
+electronic computer, for he had previously worked
+on the
+National Physical Laboratory's electronic computer,
+the ACE (Automatic Computing Engine).
+But Turing wanted to do all the work himself, he wanted to be the
+engineer and the programmer.
+He didn't want the baby to be bisected, but it was, both
+at the National Physical Laboratory and at Manchester.</para>
+    <para id="id2256718">Banks: 
+That certainly seems of a piece.
+He is said to have been very much into
+hobbies and doing things his own way.</para>
+    <para id="id2256730">Good: 
+Oh, absolutely. He liked doing things from scratch.
+For example, he knew how to
+distinguish poisonous from regular mushrooms and he would
+collect, cook, and
+eat them.
+Also, I understand that he rewired his house without calling
+in a professional.</para>
+    <para id="id2256744">Banks: 
+You were at Manchester until they replaced
+you with both Turing and A. H. Stone.</para>
+    <para id="id2256756">Good: 
+When I want to boast
+I say they needed two mathematicians to
+replace me, though of course the department was growing at the time.
+Newman built up the mathematics department at Manchester;
+he had lots of initiative.</para>
+    <para id="id2256770">Banks: 
+After a few years at Manchester, you left for the
+Government Communications Headquarters.
+Was there any particular thing that led you to leave Manchester, or was
+there something that drew you to GCHQ?</para>
+    <para id="id2256783">Good: 
+I didn't much like lecturing at that time.
+Here at VPI, I was appointed as a research professor, and specifically
+exempted from teaching duties, but I've been happy
+lecturing some of the time to statistics students.
+But last year, I was asked to give <emphasis>two</emphasis> courses of lectures
+per year, which was immediately increased to four; that
+that seemed equivalent to firing me, so I retired.
+Thus I'm the guy who retired just before he was fired, though I'm allowed
+to keep my office for as long as I wish.
+Of course the attempted firing had originated from the government
+of Virginia Commonwealth. To help to balance the budget, they
+thought it would be kind of cute to encourage well-paid
+professors to retire if they did not still have outside contracts.
+I had previously brought in more than a million dollars but I
+prefer the freedom of not having a grant.</para>
+    <para id="id2256813">In Manchester I was
+very conscientious about the teaching.
+Max Newman once said
+it's possible to be too conscientious.
+You can easily use up all your time preparing lectures and
+marking examinations and I think some people do that.
+For some, it is the
+best contribution they can make.
+But had I done that, I think it would have been a waste
+of my research ability, although
+I know that teaching is a good way to
+learn. I later discovered that one of the
+students at Manchester thought I was the worst lecturer in the
+department, perhaps because of my shyness, but another one
+thought I was the best.
+The student, G.B. Whitham, who wrote the best English,
+later became an FRS. Another student used to ask absurd
+but imaginative questions. He became a full professor.
+Don't knock the pbi.</para>
+    <para id="id2256843">A second reason for moving
+from Manchester was that my book <emphasis>Probability and the Weighing
+of Evidence</emphasis> (completed in 1948)
+[note: I. J. Good, Charles Griffin, London, 1950; Hafners, New York, 1950]
+had been declined by the Cambridge University Press.
+Who the referee was I don't know, but it could have been
+Jeffreys, since Frank Smithies told me he saw the manuscript on
+Jeffreys's desk.
+I was discouraged and did nothing about the
+manuscript for several months at least.
+Then Donald Michie, a good friend of mine right
+from the Newmanry days, said,
+“Why don't you send it in somewhere and let someone else do the work
+if you're not working on it?”
+I said, “Look, the
+manuscript's in Manchester and I'm in London.”
+He replied, “Take a train to Manchester and come back the same day
+on another train.”
+I didn't have enough faith in myself without his moral support.
+And I did what he advised, and submitted the manuscript to
+Charles Griffin, who published it in 1950.
+(Most publication was slow at the time.)
+I think it wasn't such a bad little book.
+Somebody phoned me recently and called it a classic. (Perhaps
+judgments should be made by oracles. Marc Kac's naughty philosophy
+of refereeing was to accept everything and “let history decide.”)
+Anyway, the Cold War was heating up and I thought I could
+do more good in government service.</para>
+    <para id="id2256878">Banks: 
+Without teaching, you perhaps had more research opportunities at GCHQ?</para>
+    <para id="id2256890">Good: 
+It's hard to say.
+My original work on probabilistic
+causality was done in the evenings and weekends,
+when I was at the Admiralty Research Laboratory (ARL), outside
+office hours. I worked on it for a whole year.
+One referee rejected it in a cavalier manner, but a second
+one was enthusiastic about it. It seemed to
+me that causality ought to be described in terms of
+probability; Jimmy
+Savage once made that remark to me and I think that's
+what started me in that direction.</para>
+    <para id="id2256908">Banks: 
+When did you meet Savage?</para>
+    <para id="id2256918">Good: 
+The first time I met him he came to see me, when I was in London.
+It was in 1951 or 1952 while he was working
+on his book. He'd been working
+in France and was visiting England briefly. He
+knew I'd written the 1950 book. So, perhaps
+on his way back to the U.S., he visited my home.
+Jimmy and I began corresponding after that.
+He pointed out an error in my very first paper on
+causality, when I sent him the draft.
+Later I saw him in Chicago.
+He was remarkably well read for a person with such bad eyesight.
+I once complimented him on the modesty
+of his delivery of a lecture. He replied that it
+is important to appear modest.
+He was a frequentist who defected, like Lindley.</para>
+    <para id="id2256940">Banks: 
+Speaking of famous statisticians, did you have any interactions
+with Fisher during this time?</para>
+    <para id="id2256952">Good: 
+I knew Fisher, but not well, and generally was on pretty good
+terms with him.
+He once told me that the best thing he could do for genetics was
+to teach it to mathematicians.
+He also said that he found my 1950 book interesting.
+On the other hand, Fisher told Henry Daniels that I was an upstart.</para>
+    <para id="id2256967">There was a small difficulty once when
+Fisher and I were both invited to be discussants at a lecture
+by R. B. Braithwaite (Nov. 22, 1954),
+who'd been appointed as Professor of Moral Philosophy at Cambridge.
+In the discussion, after considering a hierarchy of
+probabilities, I said that the problem with minimax procedures
+(which Braithwaite had been proposing for
+ethical decisions), and with any objectivistic procedure,
+was that they threw away information
+(such as by shutting one's eyes to the specific randomization,
+for example, by using my friend, the Statistician's
+Stooge<footnote id="idp6781872">For Neymanian methods (partly anticipated by
+Laplace,
+C. S. Peirce, E.B. Wilson,
+and Harold Hotelling) the confidence intervals could be
+reported to the client by the Stooge, or by a computer printout,
+the results being unavailable to the statistician. This would
+preserve the statistician's objectivity!</footnote>),
+and that this criticism applied even
+to the work of R. A. Fisher.
+I meant this largely as a compliment,
+implying that Fisher could be
+regarded as the father of statistics.
+But he rose with a white face and said,
+“Kindly direct your remarks to the lecturer's
+words,” or something to that effect.
+I wrote him a note immediately afterwards, explaining that
+I hadn't intended to cause a falling-out, and he wrote back that
+he'd gotten the impression that the organizers had deliberately
+selected the two of us as discussants in order to get us into
+a dog-fight.</para>
+    <para id="id2257020">He knew he had a bad temper—he once told George
+Barnard that it was the bane of his existence.
+It made me feel much better about Fisher when I heard that
+he had confessed.</para>
+    <para id="id2257029">It is not always realized that Fisher was somewhat of a 
+Bayesian,
+paradoxically enough. His fiducial argument was a failed
+attempt to arrive at a posterior degree of belief without
+mentioning a prior. (Harold Jeffrey pointed out what
+priors would patch up the argument.) Another example of his
+Bayesian proclivities was his 1957 paper, “The underworld of
+probability,” which was concerned with a hierarchy of probabilities
+reminiscent of part of my 1952 <emphasis>JRSS</emphasis> paper, “Rational 
+decisions.”</para>
+    <para id="id2257054">Banks: 
+Much of your work at GCHQ was classified, but can you give me any
+sense as to what types of mathematics or what types of things you were
+thinking about?</para>
+    <para id="id2257067">Good: 
+I think it's better that I don't say anything about GCHQ, except
+why I resigned. I resigned because I had accepted
+a full professorship in Chicago. But I changed my mind for
+personal reasons.
+One thing I did later,
+at the Admiralty Research Laboratory,
+which wasn't classified, was a paper on how to
+estimate the direction of a Gaussian signal.</para>
+    <para id="id2257083">Banks: 
+You left the Government Communications Headquarters in 1959, and
+there was a brief interlude because you didn't
+know the postal address of the
+Royal Naval Scientific Service to which you should send your resignation.
+And then you were appointed to the Admiralty Research Laboratory.</para>
+    <para id="id2257098">Good: 
+Yes, the RNSS paid scientific
+employees at GCHQ so, after resigning from GCHQ,
+and having been replaced, I was still an employee of
+the RNSS! Meanwhile, I did a few weeks of
+consulting with IBM in America, and later they offered
+me a job, which I declined after much deliberation.
+I did the first evaluation of the Perceptron
+at the request of IBM.
+Frank Rosenblatt was the man who invented the word “Perceptron,”
+and he said the name should have a lower case initial
+letter p, because it was a concept, or <emphasis>class</emphasis> of
+possible machines.
+But when I visited his laboratory, there was a machine there
+labelled <emphasis>Perceptron</emphasis>, and it had an upper case initial P.
+While I was
+visiting the IBM Mohansic Research
+Laboratory in Yorktown Heights I also wrote a paper
+on the kinds of mathematics that
+might come in useful in information retrieval.
+The Perceptron, and a 1949 book by the psychologist Donald Hebb,
+provoked me to write an article called “Speculations concerning
+the first ultraintelligent machine,”
+based on the concept of artificial neural networks and
+what I called a
+subassembly theory of the mind.
+I thought neural networks, with their ultraparallel working,
+were as likely as programming to lead to an intelligent
+machine, but brains use <emphasis>both</emphasis> methods. We can learn
+<emphasis>from</emphasis> our brains as well as <emphasis>with</emphasis> them.
+When discussing complex systems like brains and other
+societies, it is easy to oversimplify: I call this
+Occam's lobotomy. Evolution is opportunist;
+it doesn't <emphasis>have</emphasis> to choose.</para>
+    <para id="id2257185">Banks: 
+You came to the U.S. in 1962, to work at the Institute for
+Defense Analysis.
+Can you talk about any of your work there?</para>
+    <para id="id2257197">Good: 
+A lot of it was unclassified, but I still think they'd
+prefer me not to discuss any of it apart from my
+monograph <emphasis>The Estimation of Probabilities: An Essay on Modern
+Bayesian Methods</emphasis>.
+[Note: I. J. Good,
+MIT Press, Cambridge MA, 1965; paperback edition in 1968.]</para>
+    <para id="id2257217">My boss there was Dick Leibler, of
+the Kullback-Leibler or Kullback divergence
+(which had previously been called expected weight of evidence;
+Kullback told me his work was sparked by an unpublished paper
+of mine).
+Dick's administrative
+philosophy was that he judged you by your
+productivity and didn't care what hours you
+worked. He was another non-bossy boss.
+The Princeton branch of IDA was organized to save your time—the less
+technical employees would do almost anything to
+free up your time for work.
+It was very different from an
+ordinary Civil Service environment. People would shout down
+the corridor, “I'm now going to give a colloquium,”
+without prior announcement.</para>
+    <para id="id2257243">Banks: 
+After your stint at the IDA, you were a research fellow of
+Trinity College at Oxford. How did that come about?</para>
+    <para id="id2257255">Good: 
+John Hammersley, who was a Fellow
+of the college, informed me that they
+were seeking to fill the position and he invited
+me to apply.
+There were 123 applicants for this three-year appointment,
+which was joint with the Atlas Computer Laboratory,
+where the head and deputy were my friends
+Jack Howlett and Bob Churchhouse.
+For a few months, the Atlas was the fastest computer in the
+world, but IBM overtook it.
+The laboratory was sixteen miles away from Oxford, along a road dangerous
+for an inexperienced driver,
+so I didn't visit the lab as often as I would have liked.
+I did most of my work at the college, some of which was on
+the “underware” for a “five-year plan” for
+chess programming.
+One day I came into the laboratory and found my
+office taken over, as in the beginning of
+<emphasis>The Loved One</emphasis> by Evelyn Waugh.
+But, as you've noticed, I didn't commit suicide.
+Jack and Bob are still my friends.</para>
+    <para id="id2257299">Banks: 
+How did you happen to come to VPI?</para>
+    <para id="id2257310">Good: 
+I was invited at a time when my three-year
+appointment in Oxford was coming to an end, and I accepted
+provided that the pay was greatly increased and that I wouldn't
+have to teach. (The increase was 67%.)
+I arrived in Blacksburg in the seventh hour of the seventh day of the seventh
+month of year seven of the seventh decade.
+And I was put in apartment 7 of block 7 of Terrace View
+Apartments, all by chance.
+I seem to have more than my fair share of coincidences.
+I have a quarter-baked idea that God provides more coincidences
+the more one doubts Her existence, thereby providing one with
+evidence without forcing one to believe.</para>
+    <para id="id2257331">Banks: 
+More numerology—surely it is of the bad kind, in your categorization.
+Perhaps we can discuss the origins of some of your
+major research interests.
+How did your work on contingency tables begin?</para>
+    <para id="id2257348">Good: 
+One of the related problems close to philosophy is the
+estimation of the probability of one category of
+a multinomial when the order of the cells is irrelevant.
+The philosopher
+W. E. Johnson suggested that the estimate ought not depend on the ratios
+of the observed frequencies of the other categories.
+Given that assumption, together with a permutability assumption,
+he proved (1932) that the correct estimate could be obtained
+by adding a flattening constant <m:math><m:mi>k</m:mi></m:math> to each cell frequency,
+and then normalizing to make the total 1.
+(The proof breaks down for the binomial case.)
+I don't think Johnson realized that this
+was <emphasis>equivalent</emphasis> to (not merely deducible from)
+assuming a Dirichlet prior for the multinomial
+probabilities. (This follows from a generalization of a theorem due
+to de Finetti.)
+But since I think the roughness of the other
+frequencies <emphasis>is</emphasis> relevant,
+that led me on to the development of a hyperprior for the hyperparameter
+<m:math><m:mi>k</m:mi></m:math>, which I've discussed at some 
+length in my book <emphasis>The
+Estimation of Probabilities</emphasis> and in several later works.</para>
+    <para id="id2257412">The next problem along these lines was testing 
+“independence” in
+contingency tables, where similar methods, combined with a neat trick,
+could be applied. Some of the work was joint with
+J. F. Crook.
+(Before he received his doctorate we would introduce ourselves
+as Dr. Good and Mr. Crook.)
+That was an early example of hierarchical Bayesian analysis, which I had
+already suggested, in a philosophical sort of way, in my 1951 paper
+on “Rational Decisions.”
+In that paper, the example I gave of a hierarchical Bayesian idea was
+that of a “Type II” minimax procedure, one step up
+in a Bayesian hierarchy.</para>
+    <para id="id2257427">The econometrician L. Hurwicz turned out to have 
+published an
+abstract a few months before my 1951 paper, suggesting
+the minimax example, and there may have been some
+even earlier mention of hierarchical
+Bayes—it is difficult to trace the
+origins and anticipations of such simple ideas.
+The work also led to an interesting Bayes/non-Bayes
+compromise statistic based on the idea of a Type II
+maximum likelihood ratio.</para>
+    <para id="id2257444">Another piece of work on contingency tables
+(1956, previously rejected in 1953)
+anticipated the EM
+method in a special case.
+This work made early use of a loglinear model before that
+expression was used.<footnote id="idp4007216">In 1963 I showed that
+loglinear models are implied by maximizing entropy.</footnote>
+Most things are not (entirely) new
+under the sun, as pointed out by Stephen Stigler, who was anticipated
+by Ecclesiastes, God being the senior author.
+I also anticipated the generalized linear model
+in a small way. I was acknowledged for both of these minor
+precursors by those who developed them. I rediscovered
+some elegant
+algebraic work on “prime words,” largely anticipated by
+the algebraist Marshall Hall, who was anticipated
+in his turn by Philip Hall, both of whom
+are Halls of fame.
+However, my work originated
+from a statistical problem, and I conjectured
+a prime-word theorem analogous to the prime number theorem.</para>
+    <para id="id2257481">Banks: 
+When did you get involved with the fast Fourier transform?</para>
+    <para id="id2257492">Good: 
+I knew about the adding and subtracting algorithm of Frank Yates
+for interactions of all orders in <m:math><m:msup><m:mn>2</m:mn><m:mi>n</m:mi></m:msup></m:math> 
+factorial experiments.
+And I realized that this could be expressed as a
+multivariate discrete Fourier
+transform (DFT), modulo 2.
+Frank Yates had not realized this; I asked him in 1966.
+(Note that the assumption that high-order interactions
+vanish is equivalent to filtering out high frequencies, and hence,
+by using the inverse transform, to smoothing and probably
+“improving” the original data, as in image reconstruction. This
+is not just an analogy.)
+I saw
+it could be extended to a general fast
+Fourier transform by making use of a
+relationship between multivariate discrete Fourier transforms
+and univariate ones.
+Basic too is the fact that Kronecker (or direct) product of <m:math><m:mi>n</m:mi></m:math>
+matrices is equal to the ordinary product of <m:math><m:mi>n</m:mi></m:math> large but
+“sparse” matrices (elements nearly all zero). This fact
+applies also to other transforms such as Walsh's and Hartley's.
+Even the continuous multivariate Fourier transform
+(and other integral transforms) can, surprisingly, be
+expressed as a succession of ordinary
+univariate transforms.
+[Note: see papers 146, 209, and 708 in the listing
+in <emphasis>Good Thinking: the Foundations of Probability and Its
+Applications</emphasis>, I. J. Good, University of Minnesota Press, 
+1983].</para>
+    <para id="id2257577">The extremely valuable FFT has an extensive history and 
+a
+“literature” comparable to that of communication theory.
+I can add a little to that history.</para>
+    <para id="id2257586">John Tukey (December 1956) and Richard L. Garwin 
+(September 1957)
+visited Cheltenham and I had them round to steaks and fries
+on separate occasions. I told Tukey briefly about my
+FFT (with very little detail), and Cooley &amp; Tukey cited my
+1958 paper in their highly cited paper of 1965. At first
+we thought the methods were the same, but they differ. Both
+methods are valuable.</para>
+    <para id="id2257596">Garwin told me with great enthusiasm about his 
+experimental work
+related to “parity violation” in physics. Unfortunately, I did
+not mention my FFT work at that dinner. He wrote to me on February 9,
+1976, and said, “Had we talked about it in 1957, I could have
+stolen [publicized] it from you instead of from
+John Tukey in 1963 or thereabouts.” That would have completely
+changed the history of the FFT. In 1963, Garwin became highly
+enthusiastic about the FFT and was an “entrepreneur and
+missionary” for the paper by Cooley &amp; Tukey. [See <emphasis>IEEE
+Trans. on Audio and Electroacoustics, AU 17</emphasis>, 1969 June.]
+He said that a scientist's work is not finished until it is
+published, and often not even then.</para>
+    <para id="id2257620">The Cooley-Tukey method was anticipated, at least in 
+part, by
+various writers, going back to Gauss, but Gauss's contribution
+was published only posthumously [M.T. Heideman, D.H. Johnson,
+and C.S. Burrus, <emphasis>Arch. History Exact Sc. 34</emphasis> (1985), 265-
+277].
+All methods can be regarded as based on the factorization of the DFT
+matrix, and specialized circuits are sometimes used.
+[According to C.V. Loan, <emphasis>Computational Frameworks for the
+Fast Fourier Transform</emphasis>, 1992, page xii, Good (1958) was the first
+to publish factorizations of the DFT matrix which are central to that
+book. A “hard science,” by definition, is one that makes use of
+the FFT. As Loan says, “Life as we know it would be
+very different without the FFT.”]</para>
+    <para id="id2257651">It often happens that a field is ready for a tool,
+and several people independently reach similar ideas.
+In 1951 I proposed the idea of paying people in
+such a way as to
+encourage honest probability estimates.
+This idea was anticipated a year earlier by Brier,
+in a meteorological journal, who suggested
+a quadratic payoff, whereas my payoff was logarithmic and
+related to entropy.
+There is now an extensive literature on this topic,
+which Jacob Marschak described as a new branch of economics.</para>
+    <para id="id2257662">Questions of anticipation are often difficult.
+Sometimes the early statements of an idea
+are not clear and distinct or are not published in the
+best place, or not much publicized,
+and often they arise in such specific contexts that one
+cannot tell
+whether the first writers realized their wide
+applicability.
+For example, this was true of my early use of the EM method.
+Often an idea is overlooked for decades and then rediscovered,
+the influence of the originator having died out.
+This creates problems for kudologists who have enough problems anyway.
+Most scientists are more concerned with their own kudos,
+and with that of their friends, than with kudos in general.</para>
+    <para id="id2257688">Banks: 
+Your work on bump hunting came much later, but it led to
+the method of penalized likelihood, which is now a widely used concept.
+How did this begin?</para>
+    <para id="id2257700">Good: 
+I got interested in bump hunting because at the Waterloo
+conference in 1971 a couple of physicists were asked what was the most
+important statistical problem in their work, and they said it
+was the problem of finding significant bumps in histograms.
+Now, in my 1950 book, I had vaguely discussed bump hunting, though
+not under that name, and when I heard this was of interest to the
+physicists, I decided to think about it more carefully.
+That led me to the method of penalized likelihood,
+which I developed in conjunction with R. A. Gaskins and M. L. Deaton.
+I have since found that E. T. Whittaker anticipated the idea
+(for graduation rather than bump-hunting), but people
+had been overlooking or ignoring it. Also
+I have been anticipated twice by Jacobi
+and once by Abel.</para>
+    <para id="id2257723">Banks: 
+Your account of the practical impetus for your entry into serious
+bump-hunting also suggests how your psychology rescued you
+from being a probabilist,
+into which you might very well have been drawn.</para>
+    <para id="id2257737">Good: 
+It would be more complete to say I'm a Jack of all trades (period!).
+I am sure you mean I'm not a full-time card-carrying
+mathematical probabilist, but I have by no means neglected the topic
+in its theoretical and practical aspects. It has mostly been
+combinatorial rather than
+measury-weasury, to use an expression of Jimmy Savage's.
+An example of that work is the use of a generalized
+Lagrange expansion for multivariate branching processes,
+as in polymer research,
+and for the enumeration of colored planar trees. Another example
+was the geological application mentioned earlier.</para>
+    <para id="id2257757">A wonderful thing about probability is
+that sometimes what seems intuitively impossible can
+seem intuitively reasonable by thinking in a different way.
+This was mentioned at my seventieth birthday celebration (a
+Festschrift published three years later in a special
+issue of <emphasis>J. Statist. Planning &amp; Infer.</emphasis>).
+This doesn't mean that you have to do the mathematics, or hardly any
+of the mathematics.
+I was thinking then especially of a gambler's problem based
+on a sequence of coin tosses.
+Naive people assume each player is ahead about half
+the time, and are surprised to find that the
+ultimate winner is probably ahead most
+of the time. (I have in mind the arc-sine law; see Feller, Vol. 1.)
+Here the distribution of time the ultimate winner is
+ahead is not easy to calculate, but some qualitative
+thinking switches the intuition.
+Likewise the “birthday problem”
+becomes intuitive when you notice that among 23 people there
+are 253 pairs, and <m:math><m:mrow><m:mo form="prefix">exp</m:mo><m:mo>(</m:mo><m:mo>-
+</m:mo><m:mn>253</m:mn><m:mo>/</m:mo><m:mn>365</m:mn><m:mo>)</m:mo><m:mo>=</m:mo><m:mn>0</m:mn><m:mo>.</m:mo><m:mn>50000</m:mn><m:mo>.</m:mo></m:mrow></m:math>
+(This extreme accuracy, which is not the point but adds to the fun,
+occurs because <m:math><m:mrow><m:mn>253</m:mn><m:mo>/</m:mo><m:mn>365</m:mn></m:mrow></m:math> happens to be a convergent for the
+continued fraction for <m:math><m:mrow><m:msub><m:mo form="prefix">log</m:mo><m:mi>e</m:mi></m:msub><m:mn>2</m:mn></m:mrow></m:math>.
+)
+Similarly, but in geometry, Pythagoras's theorem
+becomes obvious if you drop a perpendicular on the hypotenuse
+and get three similar triangles. Euclid also knew this method
+[Book VI, Proposition 31], and I rediscovered it somewhat later.
+I like “real reasons,” or intuitive explanations.</para>
+    <para id="id2257877">Similarly, I like to
+resolve paradoxes.
+I recently wrote a paper on the
+kinematics of special relativity for just that purpose.
+Herbert Dingle had claimed that there was a contradiction in the special
+theory and my paper answered briefly, and I hope clearly,
+all four of his arguments known to me.
+(I also defended the kinematics of the special theory
+against an ingenious argument by Ian McCausland, and two
+arguments by George Galeczki.) Dingle
+was misled by a
+remark of Einstein's that was not literally correct.
+I am convinced that the kinematics of the special theory
+is self-consistent and can be disproved only experimentally.
+But there are still flat-earthers who think the theory is
+self-contradictory.</para>
+    <para id="id2257892">A lot of people feel that paradoxes are just little 
+games, but
+some are more than that.
+Take, for example, Bertrand Russsell's paradox
+about the set of all sets that are not
+members of themselves.
+It's not just a trivial little party game;
+it's that too, but it leads to an important logical concept.</para>
+    <para id="id2257900">Banks: 
+Well, I suppose there are paradoxes to paradoxes, but there must be
+some sense of taste as to which ones are important and which ones
+are frivolous.</para>
+    <para id="id2257912">Good: 
+That's true, and of course there are also two definitions of
+paradoxes. Definition one is an essential contradiction.
+Definition two is something that just looks like a contradiction at
+first, but can be resolved.
+My work on a paradox in information theory, joint with
+Sir K. Caj Doog, is of the second category.
+A summary of the relevant literature was written as
+a Springer monograph by Dave Osteyee, with me as junior author.</para>
+    <para id="id2257929">Russell's paradox is an example of
+the first category.
+The only way he could resolve it was by changing
+the definition of sets or classes.
+So, as language and mathematics were
+being used, it was a paradox of the first kind.
+Again, Gödel's earth-shattering work arose from a paradox,
+and finished up as one; from dust to diamonds.</para>
+    <para id="id2257944">Banks: 
+Given that there was an apparent conflict between Bartlett's classical
+statistics and Jeffreys's Bayesian statistics, and that you were buzzing
+around Cambridge at the time that things were coming to loggerheads,
+how did you reach some resolve in your own mind?</para>
+    <para id="id2257958">Good: 
+In Cambridge I didn't attend any lectures on classical
+statistics (although I solved one of the statistics problems
+in the mathematical tripos), and only a few by Jeffreys.
+He was an appalling lecturer in his regular course, so I soon gave up.
+Once I counted seventy-two “ers” in five minutes.</para>
+    <para id="id2257978">But I've always thought that “orthodox” statistics was 
+important
+(I'm a Bayes/non Bayes compromiser; see #1900)
+and I tend to classify it for the most part as
+a collection of techniques rather than
+philosophy, but of course it has its concepts.
+I think in all scientific subjects, perhaps also in the humanities,
+there's a technique and a philosophy.
+And this leads, incidentally, to a strain in many university departments,
+between theoreticians and practitioners, especially during
+the selection of a department head.
+I think it may be true in every department, even in English or
+foreign languages.
+In dictionary-making there are descriptivists
+and prescriptivists; descriptivists are what I should call
+practitioners, studying the way vocabulary is used, while
+prescriptivists look for logical and philosophical reasons to
+slow down the rate of change of the meanings of
+standard vocabulary. There are also
+neologists who like to invent logical new words such as
+<emphasis>kudology</emphasis>, <emphasis>ifif</emphasis> (instead of 
+<emphasis>iff</emphasis>),
+<emphasis>hopably</emphasis>, <emphasis>likelily</emphasis>, 
+<emphasis>explicativity</emphasis>, and
+<emphasis>antineologisticism</emphasis>.</para>
+    <para id="id2258053">I like to bridge gaps, I like to link philosophical
+and practical ideas, in statistics and elsewhere.
+But I don't have time for everything, because, apart from
+statistics, as you know, I'm interested in physics and mathematics,
+on the probability that
+God exists and how to define Him/Her/It and
+cabbages and kings.
+So I don't feel up-to-date in statistics;
+at my age and with my multifarious interests,
+I cannot be up-to-date, not that I ever have been.</para>
+    <para id="id2258064">Specifically, there are two things I'd like to work on.
+One is something you don't believe in.
+That's my physical numerology
+about the masses of
+subatomic particles.
+I want to learn more, in the hope
+of explaining the mathematical regularities, but I'm probably too old.
+But if the numerology turns out to be right, then whoever explains
+it will get a Nobel Prize, with probability .999.
+I would just be the modern Balmer, who was the guy who discovered the
+formula for hydrogen's spectral frequencies
+as a piece of numerology, that is, with no explanation.</para>
+    <para id="id2258077">After a formula has been found numerologically,
+it sometimes suggests the physical mechanism behind the phenomenon.
+When Balmer's expression,
+which was the difference between
+two simple expressions, was shown to Niels Bohr, he immediately
+thought of the idea of an electron jumping from one orbit to another,
+so the numerology was the spark that ignited a new,
+non-classical, approach to the study of the atom,
+the “old quantum theory.” Most physics books get the
+history wrong and give the impression that Balmer's
+formula <emphasis>confirmed</emphasis> the theory rather than
+<emphasis>suggesting</emphasis> it to a prepared mind.
+I think people are prejudiced
+against numerology because of its main dictionary definitions.
+In the latest unabridged Oxford English
+Dictionary, one use (<emphasis>The Times</emphasis>, Feb. 23, 1962)
+is by physicists as a term of “near-abuse.” But
+for some decades (and I believe before 1962), the term has
+been used neutrally and semi-humorously by physicists at
+their own expense.</para>
+    <para id="id2258124">One of my interests is the distinction between good
+and bad numerology.
+Many people, apart from the “tyranny of words,”
+simply have a blanket rejection of anything that
+smacks of numerology because they have no idea how to
+judge what's good and what's bad.
+Or at least they think they don't have an idea, but they
+do have some because when it is good enough they don't
+call it numerology.
+Some numerology (in physics, chemistry, and genetics) has
+changed the world.
+So I prefer to think of numerology
+as a kind of exploratory data analysis (for the philosophy
+of which, see my paper #1492, in the list in <emphasis>Good 
+Thinking</emphasis>).</para>
+    <para id="id2258147">Banks: 
+I'll agree that the payoff is enormous if you find
+something as numinous as numerology.
+What was the other area to which you are devoting your time?</para>
+    <para id="id2258160">Good: 
+Your alliteration is cute but physical numerology
+isn't numinous.
+My other current main interest
+deals with necessitivity, sufficientivity, and legal
+allocation of responsibility.
+I'm going to give a colloquium at the Center for the Study
+of Science and Society, which is entitled simply “Legal Responsibility.”
+People won't have the slightest idea from that title what I'm going to talk
+about, and they'll complain that I'm not even a lawyer.
+But ignorance of the law is no excuse for not talking about it,
+nor for not serving on a jury.
+Another, more topical, colloquium on legal matters has been
+presented with the title “Batterers,
+murderers, and barristers.” It exemplifies
+Bayes factors in the law, a concept that should be taught
+to all potential jurors. Quantitative thinking teaches us
+the structure of qualitative thinking.</para>
+    <para id="id2258189">In my 1961 work on probabilistic causality, I 
+overlooked the need
+for “necessitive” and “sufficientive” discussions.
+When I dipped into the interesting book (for lawyers
+rather than philosophers) <emphasis>Causation in the Law</emphasis>,
+by Hart &amp;
+Honoré, I found many such discussions, though they are
+not explicitly probabilistic. In the last few years I found
+simple, and I think convincing, explications of quantitative
+measures of <emphasis>necessitivity</emphasis> and 
+<emphasis>sufficientivity</emphasis> in
+terms of probability, either physical or subjective. These are
+measures of the tendency of an event to be necessary or to be
+sufficient for a later event.
+The best philosophical write-up so far is
+(my publication
+#2000) in the <emphasis>Festschrift</emphasis> for Patrick Suppes, edited by
+Paul Humphreys (1993). For possible bridges to
+statistics see my review in <emphasis>Mathematical Reviews</emphasis> (1995, 
+June)
+of an article by Richard Stone.</para>
+    <para id="id2258242">Banks: 
+We've worn out three tapes, and probably also the editor's
+page allotment.
+My feeling is that many interviews in <emphasis>Statistical Science</emphasis>
+tend to be a bit stuffy, with determined efforts being made on all
+sides to whip up a bit of drama in a dry academic life.
+Thanks very much for having done so many interesting things, in
+so many important areas. And thanks also for your patience,
+good humor, and determination to look at everything from a
+uniquely fresh perspective.</para>
+  </content>
+</document>

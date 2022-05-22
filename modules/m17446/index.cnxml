@@ -1,0 +1,218 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>I. J. Good: An Appreciation</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>a5b0c968-5573-499a-9a37-334389ecab25</md:uuid>
+</metadata>
+  <content>
+
+
+<para id="id2253717">(This module helps 
+introduce <emphasis>The Good Book: Thirty Years of Comments, Conjectures and 
+Conclusions, by I.J. Good</emphasis>. The book is available for purchase from the
+<link url="http://my.qoop.com/store/3111075350609104/386563560345">Rice University Press Store</link>. You 
+can also visit the <link url="http://ricepress.rice.edu">Rice University Press 
+web site</link>.)</para>
+
+
+
+    <section id="idm9171088">
+<title>I. J. Good—An Appreciation</title>
+
+
+
+    <para id="id2253719">I was privileged to attend a ninetieth birthday celebration in December
+2006 for one of the major figures of twentieth-century statistics, and one
+of my personal heroes—I.J. Good, known to most of us as Jack. My
+interactions with Jack, both personal and intellectual, go back over
+forty years and I am greatly in his debt. It is a pleasure to be able to
+comment, albeit briefly, on some of his contributions to the
+literature that have influenced me the most.</para>
+    <para id="id2253740">December would have also marked the ninetieth birthday of another major
+figure and hero of mine, Fred Mosteller, who passed away after an
+extended illness in July 2006. It was while working on my initial
+research project under Fred's guidance as a graduate student at
+Harvard that I first encountered Jack's work. I stumbled across a
+paperback copy of <emphasis>The Scientist Speculates</emphasis> (Good, 1962), and
+in it I found a short piece on assessing probability assessors, by
+Bruno de Finetti (1962). At the time I was trying to
+polish up a memorandum (Tukey, 1965) on the topic initiated by
+some notes from John Tukey. Both the memo and the de Finetti piece
+were to exert a strong influence on my later collaboration with Morrie
+DeGroot on this topic—after we both had a conversation about it with
+Jack at the first Valencia meeting in 1979. (It was at Valencia that I
+first heard Jack describe the role of “fuzzy” priors at the top
+level of the Bayesian hierarchy!) But as important as that note by de
+Finetti was, it was in fact the rest of the volume that was so
+fascinating. And of course most of the entries were written by Jack
+on almost every topic one could imagine. “Who was this man?” I thought.
+I was soon to find out.</para>
+    <para id="id2253777">My next encounter with Jack's work came shortly afterwards. It was
+his then newly-published book on <emphasis>Estimation of
+Probabilities</emphasis> (Good, 1965) and his related 1956
+article (Good, 1956) on small frequencies in contingency tables.
+They had a profound influence on my work at the time and reinforced my
+emerging commitment to the Bayesian perspective. I used ideas from
+this work in my own dissertation research and continued to go back to
+Jack's “little book” repeatedly in subsequent years, especially as I
+came to fully appreciate his explication of the notion of hierarchical
+models and mixtures of priors, not just for contingency table
+problems. It was also here that I learned about the importance of
+mixtures of Dirichlet distributions for contingency table problems, a
+topic Jack returned to repeatedly in subsequent years (e.g., see
+(Good, 1976) ). My original copy of the book still sits on my
+office shelf, somewhat dog-eared, with many penciled notes and
+question marks in the margins.</para>
+    <para id="id2253808">I believe I first met Jack at a professional meeting just after I
+received my Ph.D. (perhaps in Pittsburgh, although he is likely to remember
+better than I!), and I believe he spoke on Bode's
+law (Good, 1969). It was only after going to the University of
+Chicago where I began to work on log-linear models for
+multi-dimensional contingency tables that I discovered Jack's
+remarkable 1963 <emphasis>Annals</emphasis> paper (Good, 1963) on the use of
+entropy and marginals to generate log-linear models. Along with key
+papers by Birch, Darroch, Goodman, and Plackett, and of course Yvonne
+Bishop's thesis, that paper served as the foundation of my own work on
+the topic. Over the years I have had many occasions to refer others
+to it, when they “rediscovered” Jack's insights and approach.</para>
+    <para id="id2253836">By this time I had begun to assemble a collection of reprints and
+other copies of Jack's papers. I recall writing to him and asking for
+a copy of one and receiving a remarkable note in return. the key
+paragraph went something like:</para>
+    <para id="id2253843">
+      <quote display="block" id="idm8497664">According to my files I sent you a reprint of the requested paper on
+December 17, 1970. I am enclosing a copy of my short publication
+list, and suggest you request a different paper.</quote>
+    </para>
+    <para id="id2253852">Of course, by then Jack's short publication list was longer than
+virtually any of the papers, and I dutifully made a different
+selection!</para>
+    <para id="id2253857">While working on my book with Yvonne Bishop and Paul
+Holland (1975), I had repeated occasions
+to go back to Jack's papers. One that I studied in particular, not
+yet mentioned, was his 1953 paper on the frequency of
+frequencies (Good, 1954) which suggests a method for summarizing
+large contingency tables by tabulating the frequency of the
+frequencies and then fitting distributions to it; this was also the
+“species” problem as in “How many words did Shakespeare know?”
+When it came time to choose a publisher for our book, an influential
+factor in our choice of MIT Press was the fact that it was the
+publisher of Jack's 1965 book; that was company we were pleased to
+keep. Both his book and ours were mainstays in the MIT Press
+catalogue for decades.
+As committed as Jack has been to the subjective Bayesian or personal
+probability perspective, his research papers show a remarkably
+catholic perspective on approaches to inference, and he has
+written repeatedly and at length about the Bayes/non-Bayes-compromise,
+e.g., (Good and Crook, 1974), as a matter of methodological approach
+rather than simply one of practice. Fred Mosteller too shared this
+pluralistic perspective, although he was never a committed
+subjectivist. This is part of the intellectual tradition to which I
+would like to be linked, being myself a true subjectivist
+philosophically, but practically using lots of maximum likelihood
+tools and indeed anything else that I can justify heuristically if not
+philosophically. How many kinds of Bayesians are there? According
+to Jack: 46,656 varieties (1971), and I suspect that several
+of these correspond to Jack wearing different hats, including his
+alter ego, K. Caj Doog. See also (Good, 1983b).</para>
+    <para id="id2253918">The reprinting of a collection of Jack's papers in
+1983 (Good, 1983a) gave me a bound version of some of his work to
+keep close at hand and I have repeatedly referred to it, especially on
+matters on philosophy and on Bayesian and contingency table history.</para>
+    <para id="id2253925">Jack's interest in statistical fallacies and paradoxes is
+long-standing, including his 1968 encyclopedia
+article (Good, 1968) and his comment on Colin Blyth's article on
+Simpson's paradox (Good, 1972), so it was not a surprise when he
+wrote a lengthy piece on the topic, with new results and
+generalizations (Good and Mittal, 1985). It is a wonderful resource
+and it has been used not only by me but also by students with whom I
+have worked.</para>
+    <para id="id2253936">A little over four years ago I set out to answer the question: When
+did Bayesian inference become “Bayesian,” i.e., when did the term
+supplant “inverse probability”? I turned of course to several
+things that Jack had written, including the historical account in his
+1965 book on <emphasis>The Estimation of Probabilities</emphasis> and I shared an
+early draft of my findings with Jack.
+This prompted a couple of e-mail messages, a
+long letter, a mailing with reprints or Xerox copies of several papers
+describing his wartime work at Bletchley Park with Turing and later
+during the 1950s, several of which he had sent me before (I guess he
+had stopped keeping track of the people to whom he had sent copies!),
+and a couple of telephone conversations. In the process I learned
+much both about the evolution of Bayesian methods and ideas, and
+Jack's role in what I now refer to as the “neo-Bayesian revival”
+of the 1950s, a term he coined and a movement in which he played an
+important part. My paper (2006) would not have been the
+same without him. And in case you are curious, he was not the first
+to write about “Bayesian inference,” even though he has many other
+firsts to his credit!</para>
+    <para id="id2253983">For me, virtually everything that Jack has written or opined about
+makes for “Good" reading and serious reflection—except perhaps for
+his limericks. I'm very pleased to be able to contribute to the
+present collection.</para>
+  
+</section>
+<section id="idm920192">
+<title>References</title>
+
+
+
+
+    <para id="id2254012">Bishop, Y.M.M., S.E. Fienberg,
+and P.W. Holland (1975). <emphasis>Discrete Multivariate Analysis:
+Theory and Practice</emphasis>. MIT Press. Reprinted (2007)
+Springer-Verlag.</para>
+    <para id="id2254028">de Finetti, B. (1962). “Does It Make Sense To Speak Of `Good Probability Appraisers'?”</para>
+    <para id="id2254038">DeGroot, M.H. and S.E. Fienberg
+(1982). “Assessing Probability Assessors: Calibration and
+Refinement,” In S.S. Gupta and J.O. Berger, eds., <emphasis>Statistical
+Decision Theory and Related Topics III</emphasis>, Vol. 1, Academic Press,
+291–314.</para>
+    <para id="id2254058">Fienberg, S.E. (2006). “When Did Baysian
+Inference Become “Bayesian”?” <emphasis>Bayesian Analysis</emphasis>, 1,
+1–40.</para>
+    <para id="id2254074">Good, I.J. (1954). “The Population Frequencies
+of Species and the Estimation of Population Parameters,” <emphasis>Biometrika</emphasis>, 40, 237–264.</para>
+    <para id="id2254091">Good, I.J. (1956). “On the Estimation of Small
+Frequencies in Contingency Tables,” <emphasis>J. Roy. Statist. Soc.,
+Series B</emphasis>, 18. 113–124.</para>
+    <para id="id2254108">Good, I.J., ed. (with the help of A.J. Mayne and
+John Maynard Smith) (1962). <emphasis>The Scientists Speculates: An
+Anthology of Partly-Baked Ideas,</emphasis> London, Heinmann, 1962 (Basic
+Books, New York, 1963; Paperback, Capricorn Books, New York, 1965.)</para>
+    <para id="id2254124">Good, I.J. (1963). “Maximum Entropy for
+Hypothesis Formulation, Especially for Multidimensional Contingency
+Tables,” <emphasis>Ann. Math. Statist.</emphasis>, 34, 911–934.</para>
+    <para id="id2254142">Good, I.J. (1965). <emphasis>The Estimation of
+Probabilities: An Essay on Modern Bayesian Methods.</emphasis> M.I.T. Press.</para>
+    <para id="id2254156">Good, I.J. (1968). “Fallacies, Statistical,”
+<emphasis>International Enc. Social Sciences</emphasis>, Macmillian and Free Press,
+5, 292–301.</para>
+    <para id="id2254173">Good, I.J. (1969). “A Subjective Evaluation of
+Bode's Law and an
+Objective Test for Approximate Numerical Rationality (with
+discussion),” <emphasis>J. Amer. Statist. Assoc.</emphasis>, 64, 23–66.</para>
+    <para id="id2254191">Good, I.J. (1971) “46656 varieties of
+Bayesians.” Letter in <emphasis>American Statistician</emphasis>, 25: 62–
+63. Reprinted in <emphasis>Good Thinking</emphasis>, (Good 1983a),
+pp. 20–21.</para>
+    <para id="id2254214">Good, I.J. (1972). “Comments on Colin
+Blyth's two papers: <emphasis>On Simpson's Paradox and the
+Sure-thing Principle</emphasis> and <emphasis>Some Probability Paradoxes in
+Choice From Among Random alternatives</emphasis>,” <emphasis>J. Amer. Statist. Assoc.</emphasis>, 67, 374–375.</para>
+    <para id="id2254243">Good, I.J. and J.F. Crook (1974). “The
+Bayes/Non-Bayes Compromise and the Multinomial Distribution,” <emphasis>J. Amer. Statist. Assoc.</emphasis>, 69, 711–720.</para>
+    <para id="id2254260">Good, I.J. (1976). “On the Application of
+Symmetric Dirichlet distributions and their mixtures to contingency
+tables,” <emphasis>Ann. Statist.</emphasis>, 4, 1159–1189.</para>
+    <para id="id2254278">Good, I.J. (1983a). <emphasis>Good Thinking: The
+Foundations of Probability and its Applications.</emphasis> Univ. of
+Minnesota Press.</para>
+    <para id="id2254292">Good, I.J. (1983b). “Who is a Bayesian?”
+Letter in <emphasis>American Statistician</emphasis> 37 (Feb.), 95.</para>
+    <para id="id2254308">Good, I.J. and Y. Mittal (1985). “The
+Amalgamation and Geometry of Two-by-Two Contingency Tables,” <emphasis>Ann. Statist.</emphasis>, 15, 694–711.</para>
+    <para id="id2254325">Tukey, J.W., F. Mosteller, and S.E. Fienberg
+(1965). “Scoring Probability Forecasts." Department of Statistics,
+Harvard University, Memorandum NS-37.</para>
+</section>
+  </content>
+</document>
